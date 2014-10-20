@@ -6,7 +6,7 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
 # Site Settings
 title: "GDG DevFest Season 2014"
-email: "devfest@gdg.org.ua"
+email: "devfest@gdg.com.ar"
 description: "GDG DevFest is a set of events all around the world"
 baseurl: "/zeppelin"
 url: "http://gdg-x.github.io"
@@ -16,16 +16,16 @@ googleAnalyticsSiteUrl: "gdg-x.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "GDG Lviv"
+organizerName: "GDG Buenos Aires"
 organizerAlternateName: "Google Developer Group Lviv"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
+organizerEmail: "contacto@gdg.com.ar"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerLink: "http://www.gdg.com.ar"
 
 # Head
 metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
+twitterAccount: "@gdgbsas"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
@@ -54,8 +54,8 @@ heroImage: "hero.jpg"
 heroTitle: "GDG DevFest <typeout> 2014"
 #podriamos poner en typeout los nombres de los GDG que participan? o dejamos devfest AR fijo?
 eventDate: "Diciembre 6, 2014"
-typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
-typeoutFallback: "Season"
+typeoutTextValues: '"Buenos Aires", "Cordoba", "Mendoza", "Bahía Blanca","Santa Fe", "Rosario", "AR"'
+typeoutFallback: "AR"
 heroButtons:
  - {link: "http://bit.ly/dfua-c4p", text: "Quiero ser Orador"}
  - {permalink: "/#tickets", text: "Registrate"}
@@ -116,7 +116,7 @@ twitterHashTag: "devfest"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900"
 
 # Partners Block
-organizersTitle: "Organizers"
+organizersTitle: "Organizadores"
 partnersTitle: "Partners"
 partnersC4sponsorsButton: "Become a sponsor"
 
