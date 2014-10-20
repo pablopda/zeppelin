@@ -6,7 +6,7 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
 # Site Settings
 title: "GDG DevFest Season 2014"
-email: "devfest@gdg.org.ua"
+email: "devfest@gdg.com.ar"
 description: "GDG DevFest es un conjunto de ventos tecnicos al rededor del mundo"
 baseurl: "/zeppelin"
 url: "http://gdg-x.github.io"
@@ -16,16 +16,16 @@ permalink: "/blog/:title"
 #siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "GDG Lviv"
+organizerName: "GDG Buenos Aires"
 organizerAlternateName: "Google Developer Group - BsAs - Cordoba - Santa Fe - completar"
 organizerDescription: "Comunidades de desarrolladores de Argentina a las que nos apasiona la tecnología y construimos productos innovadores con tecnologías Google."
-organizerEmail: "some@mail.com"
+organizerEmail: "contacto@gdg.com.ar"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerLink: "http://www.gdg.com.ar"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programacion, desarrolladores,programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
+metaKeywords: "event, gdg, devfest, google, programacion, desarrolladores,programming, android, chrome, developers, bsas"
+twitterAccount: "@gdgbsas"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
@@ -39,25 +39,26 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Calendario"}
- - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistica"}
+ - {permalink: "/schedule/", text: "Agenda"}
+ - {permalink: "/speakers/", text: "Oradores"}
+ - {permalink: "/team/", text: "Organizadores"}
+ - {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "http://bit.ly/dfua-c4p", text: "Se un speaker"}
+ - {link: "http://bit.ly/dfua-c4p", text: "Quiero ser Orador"}
 rightNavigationButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Se un speaker"}
+ - {link: "http://bit.ly/dfua-c4p", text: "Quiero ser Orador"}
 
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "GDG DevFest <typeout> 2014"
-eventDate: "September - November, 2014"
-typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
-typeoutFallback: "Season"
+#podriamos poner en typeout los nombres de los GDG que participan? o dejamos devfest AR fijo?
+eventDate: "Diciembre 6, 2014"
+typeoutTextValues: '"Buenos Aires", "Cordoba", "Mendoza", "Bah�a Blanca","Santa Fe", "Rosario", "AR"'
+typeoutFallback: "AR"
 heroButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {link: "http://bit.ly/dfua-c4p", text: "Quiero ser Orador"}
+ - {permalink: "/#tickets", text: "Registrate"}
 
 # About Block
 aboutTitle: "About GDG DevFest"
@@ -115,7 +116,7 @@ twitterHashTag: "devfest"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900"
 
 # Partners Block
-organizersTitle: "Organizers"
+organizersTitle: "Organizadores"
 partnersTitle: "Partners"
 partnersC4sponsorsButton: "Become a sponsor"
 
