@@ -76,7 +76,7 @@ statisticBlock:
  - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Latest News Block
-latestNewsTitle: "Latest news"
+latestNewsTitle: "Ultimas noticias"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
@@ -85,20 +85,20 @@ rockstarSpeakersTitle: "Rockstar speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
-locationBlockTitle: "Location"
-eventLocationName: "Conference Hall"
-eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
-eventStreetAddress: "22 Teatral'na St"
-eventAddressLocality: "Lviv"
-eventAddressLocalityRegion: "Lvivska"
+locationBlockTitle: "Ubicación"
+eventLocationName: "Centro Cultural San Martín"
+eventLocationLink: "http://elculturalsanmartin.org/"
+eventStreetAddress: "Sarmiento 1551"
+eventAddressLocality: "Buenos Aires"
+eventAddressLocalityRegion: "Buenos Aires"
 eventPostalCode: "79000"
-eventAddressCountry: "Ukraine"
-eventStartTime: "2014-10-25T10:00"
+eventAddressCountry: "Argentina"
+eventStartTime: "2014-06-12T10:00"
 eventDoorTime: "09:00"
-eventEndTime: "2014-10-25T20:00"
-eventPlaceCoordinates: "49.843237, 24.028751"
-mapCenterCoordinates: "49.842537, 24.025701"
-mapMobileCenterCoordinates: "49.841620, 24.029411"
+eventEndTime: "2014-06-12T22:30"
+eventPlaceCoordinates: "-34.604886, -58.388366"
+mapCenterCoordinates: "-34.604886, -58.388366"
+mapMobileCenterCoordinates: "-34.604886, -58.388366"
 
 # Venue Block
 venueBlockTitle: "Venue"
@@ -106,12 +106,12 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
+venueTitle: "CC San Martín"
 venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle: "What's Up?"
+tweetsFeedTitle: "Novedades"
 twitterHashTag: "devfest"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900"
 
