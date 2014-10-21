@@ -5,9 +5,9 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG DevFest Season 2014"
-email: "devfest@gdg.org.ua"
-description: "GDG DevFest es un conjunto de ventos tecnicos al rededor del mundo"
+title: "DevFest 2014"
+email: "devfest@gdg.com.ar"
+description: "Los DevFest son un conjunto de eventos tecnicos alrededor del mundo"
 baseurl: "/zeppelin"
 url: "http://gdg-x.github.io"
 permalink: "/blog/:title"
@@ -16,16 +16,16 @@ permalink: "/blog/:title"
 #siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "GDG Lviv"
+organizerName: "GDG Baires"
 organizerAlternateName: "Google Developer Group - BsAs - Cordoba - Santa Fe - completar"
 organizerDescription: "Comunidades de desarrolladores de Argentina a las que nos apasiona la tecnología y construimos productos innovadores con tecnologías Google."
-organizerEmail: "some@mail.com"
+organizerEmail: "devfest@gdg.com.ar"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://lviv.gdg.org.ua/"
 
 # Head
 metaKeywords: "event, gdg, devfest, google, programacion, desarrolladores,programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
+twitterAccount: "@gdgbsas"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
@@ -39,9 +39,9 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Calendario"}
- - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team/", text: "Team"}
+ - {permalink: "/schedule/", text: "Agenda"}
+ - {permalink: "/speakers/", text: "Oradores"}
+ - {permalink: "/team/", text: "Equipo"}
  - {permalink: "/logistics/", text: "Logistica"}
  - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
@@ -53,14 +53,14 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "GDG DevFest <typeout> 2014"
 eventDate: "September - November, 2014"
-typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
-typeoutFallback: "Season"
+typeoutTextValues: '"AR", "Buenos Aires", "Bahia Blanca","Cordoba", "La Plata", "Mendoza","Neuquen", "Santa Fe", "Rosario"'
+typeoutFallback: "AR"
 heroButtons:
  - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "Acerca del DevFest"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "El mayor evento sobre tecnología Google del país, cuidadosamente elaborado por las comunidads GDG! Espectaculares expositores y mucha diversión!" }
  - {title: "Workshops", image: "workshop.jpg", text: "Un día completo de talleres, donde te nos ensuciamos las manos de coding, hacking and debugging. Veni a dar experimentar con tu tecnología preferida!" }
@@ -75,7 +75,7 @@ statisticBlock:
  - {count: "3", specialCharacter: "", info: "tracks paralelos", detail: "plus entertainment lounge"}
 
 # Latest News Block
-latestNewsTitle: "Latest news"
+latestNewsTitle: "Novedades"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
@@ -100,12 +100,12 @@ mapCenterCoordinates: "49.842537, 24.025701"
 mapMobileCenterCoordinates: "49.841620, 24.029411"
 
 # Venue Block
-venueBlockTitle: "Venue"
+venueBlockTitle: "Locación"
 venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
+venueTitle: "Centro Cultural San Martín"
 venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
 
 # Tweets Feed Block
