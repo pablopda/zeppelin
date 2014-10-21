@@ -11,8 +11,8 @@ description: "Los DevFest son un conjunto de eventos tecnicos alrededor del mund
 baseurl: "/zeppelin"
 url: "http://gdg-x.github.io"
 permalink: "/blog/:title"
-#googleAnalyticsTrackingId: "UA-43643469-5"
-#googleAnalyticsSiteUrl: "gdg-x.github.io"
+#googleAnalyticsTrackingId: "UA-27211040-9"
+#googleAnalyticsSiteUrl: "devfest.gdg.com.ar"
 #siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
@@ -115,7 +115,7 @@ twitterHashTag: "devfest"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900"
 
 # Partners Block
-organizersTitle: "Organizers"
+organizersTitle: "Organizadores"
 partnersTitle: "Partners"
 partnersC4sponsorsButton: "Become a sponsor"
 
