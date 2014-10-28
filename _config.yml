@@ -21,7 +21,7 @@ organizerAlternateName: "Google Developer Group - BsAs - Cordoba - Santa Fe - co
 organizerDescription: "Comunidades de desarrolladores de Argentina a las que nos apasiona la tecnología y construimos productos innovadores con tecnologías Google."
 organizerEmail: "devfest@gdg.com.ar"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerLink: "http://www.gdg.com.ar/"
 
 # Head
 metaKeywords: "event, gdg, devfest, google, programacion, desarrolladores,programming, android, chrome, developers, lviv"
@@ -45,9 +45,9 @@ navigationLinks:
  - {permalink: "/logistics/", text: "Logistica"}
  - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "http://bit.ly/dfua-c4p", text: "Se un speaker"}
+ - {link: "http://bit.ly/dfua-c4p", text: "Se un orador"}
 rightNavigationButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Se un speaker"}
+ - {link: "http://bit.ly/dfua-c4p", text: "Se un orador"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -56,7 +56,7 @@ eventDate: "September - November, 2014"
 typeoutTextValues: '"AR", "Buenos Aires", "Bahia Blanca","Cordoba", "La Plata", "Mendoza","Neuquen", "Santa Fe", "Rosario"'
 typeoutFallback: "AR"
 heroButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "http://bit.ly/dfua-c4p", text: "Se un orador"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
@@ -136,7 +136,7 @@ ticketsOffers:
   ticketsNumber: "150"
   ribbon: "-5%"
   buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
+  buyButtonText: "Registrarse"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2014-08-25T10:00"
   validThrough: "2014-09-30T23:59"
@@ -148,7 +148,7 @@ ticketsOffers:
   ribbon: "-20%"
   featured: true
   buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
+  buyButtonText: "Registrarse"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2014-10-01T00:00"
   validThrough: "2014-10-23T23:59"
@@ -159,7 +159,7 @@ ticketsOffers:
   priceCurrency: "UAH"
   ticketsNumber: "50"
   buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
+  buyButtonText: "Registrarse"
   additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2014-08-20T10:00"
@@ -169,20 +169,20 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ - {link: "https://www.google.com/+gtugar", icon: "google-plus"}
+ - {link: "https://twitter.com/gdgbsas", icon: "twitter"}
+ - {link: "https://www.facebook.com/groups/gtug.bsas/", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
+   - {link: "http://www.gdg.com.ar", text: "GDG Buenos Aires"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:devfest@gdg.com.ar", text: "devfest@gdg.com.ar"}
  -
   title: "FAQ"
   links:
