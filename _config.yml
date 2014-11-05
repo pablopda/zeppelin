@@ -17,7 +17,7 @@ permalink: "/blog/:title"
 
 # Organizer Info
 organizerName: "GDG Baires"
-organizerAlternateName: "Google Developer Group - BsAs - Cordoba - Santa Fe - completar"
+organizerAlternateName: "Google Developer Group - BsAs - Cordoba - Santa Fe"
 organizerDescription: "Comunidades de desarrolladores de Argentina a las que nos apasiona la tecnología y construimos productos innovadores con tecnologías Google."
 organizerEmail: "devfest@gdg.com.ar"
 organizerLogo: "/img/seo/organizer-logo.png"
@@ -64,7 +64,7 @@ aboutTitle: "Acerca del DevFest"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "El mayor evento sobre tecnología Google del país, cuidadosamente elaborado por las comunidads GDG! Espectaculares expositores y mucha diversión!" }
  - {title: "Workshops", image: "workshop.jpg", text: "Un día completo de talleres, donde te nos ensuciamos las manos de coding, hacking and debugging. Veni a dar experimentar con tu tecnología preferida!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day free-style hackaton! Want some real teambuilding on friday? Grab your team and join our hackathon!" }
+ - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day free-style hackaton! sumate!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -112,17 +112,17 @@ venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio syste
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
 twitterHashTag: "devfest"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900"
+#twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900"
 
 # Partners Block
 organizersTitle: "Organizadores"
 partnersTitle: "Partners"
-partnersC4sponsorsButton: "Become a sponsor"
+partnersC4sponsorsButton: "Transformate en sponsor"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
-subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
+#subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
 subscribeInfo: "La inscripción estará abierta pronto. El número de entradas es limitado. Manténte al tanto!"
 
 # Tickets Block
@@ -131,8 +131,8 @@ ticketsInfo: "Las entradas permiten el acceso a todas las secciones de la confer
 ticketsOffers:
  -
   name: "Early Bird"
-  price: "350"
-  priceCurrency: "UAH"
+  price: "0"
+  priceCurrency: "ARS"
   ticketsNumber: "150"
   ribbon: "-5%"
   buyButtonLink: "http://dfua.ticketforevent.com/"
@@ -142,21 +142,21 @@ ticketsOffers:
   validThrough: "2014-09-30T23:59"
  -
   name: "Last Chance"
-  price: "450"
-  priceCurrency: "UAH"
+  price: "0"
+  priceCurrency: "ARS"
   ticketsNumber: "100"
   ribbon: "-20%"
   featured: true
   buyButtonLink: "http://dfua.ticketforevent.com/"
   buyButtonText: "Registrarse"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-10-01T00:00"
-  validThrough: "2014-10-23T23:59"
+  validFrom: "2014-11-01T00:00"
+  validThrough: "2014-11-23T23:59"
   disabled: true
  -
   name: "Student"
-  price: "200"
-  priceCurrency: "UAH"
+  price: "0"
+  priceCurrency: "ARS"
   ticketsNumber: "50"
   buyButtonLink: "http://dfua.ticketforevent.com/"
   buyButtonText: "Registrarse"
@@ -213,7 +213,7 @@ logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
 
 # Logistics Direction Details Block
 directionDetailsImage: "direction-details.jpg"
-directionDetailsTitle: "Get around Lviv"
+directionDetailsTitle: "Get around Buenos Aires"
 directionDetailsCards:
  - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
  - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
