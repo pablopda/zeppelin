@@ -38,7 +38,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
+ - {permalink: "https://plus.google.com/u/0/events/coi0oe0cn0avk6qun0pnt3849vs", text: "G+event"}
  - {permalink: "/schedule/", text: "Agenda"}
  - {permalink: "/speakers/", text: "Oradores"}
  - {permalink: "/team/", text: "Equipo"}
