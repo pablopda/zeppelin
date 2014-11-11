@@ -38,7 +38,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "https://plus.google.com/u/0/events/coi0oe0cn0avk6qun0pnt3849vs", text: "G+event"}
+ - {link: "https://plus.google.com/u/0/events/coi0oe0cn0avk6qun0pnt3849vs", text: "G+event"}
  - {permalink: "/schedule/", text: "Agenda"}
  - {permalink: "/speakers/", text: "Oradores"}
  - {permalink: "/team/", text: "Equipo"}
@@ -197,8 +197,8 @@ discusShortName: "devfestua"
 showSessions: false
 
 # Team Block
-teamBlockTitle: "About us"
-aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
+teamBlockTitle: "Sobre el evento"
+aboutUs: "El DevFest es un evento anual a gran escala, dirigidos por la comunidad GDG (Google Developers Group) para la comunidad de desarrolladores. Cada uno de los eventos está organizado por la comunidad local, y este año será un esfuerzo comun con Buenos Aires, el resto del pais, y el Google Business Group."
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
