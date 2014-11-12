@@ -52,27 +52,27 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "GDG DevFest <typeout> 2014"
-eventDate: "September - November, 2014"
+eventDate: "6 Diciembre 2014"
 typeoutTextValues: '"AR", "Buenos Aires", "Bahia Blanca","Cordoba", "La Plata", "Mendoza","Neuquen", "Santa Fe", "Rosario"'
 typeoutFallback: "AR"
 heroButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Se un orador"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+# - {link: "http://bit.ly/dfua-c4p", text: "Se un orador"}
+ - {link: "https://eventioz.com.ar/e/devfest-2014", text: "Registro"}
 
 # About Block
 aboutTitle: "Acerca del DevFest"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "El mayor evento sobre tecnología Google del país, cuidadosamente elaborado por las comunidads GDG! Espectaculares expositores y mucha diversión!" }
  - {title: "Workshops", image: "workshop.jpg", text: "Un día completo de talleres, donde te nos ensuciamos las manos de coding, hacking and debugging. Veni a dar experimentar con tu tecnología preferida!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day free-style hackaton! sumate!" }
+# - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day free-style hackaton! sumate!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "desarrolladores", detail: "de todas partes"}
- - {count: "48", specialCharacter: "+", info: "horas", detail: " de tecnologías Google"}
+ - {count: "450", specialCharacter: "+", info: "desarrolladores", detail: "de todas partes"}
+ - {count: "20", specialCharacter: "+", info: "horas", detail: " de tecnologías Google"}
  - {count: "20", specialCharacter: "+", info: "speakers", detail: "de nuestro país y el exterior"}
- - {count: "3", specialCharacter: "", info: "tracks paralelos", detail: "plus entertainment lounge"}
+ - {count: "4", specialCharacter: "", info: "tracks paralelos", detail: "plus entertainment lounge"}
 
 # Latest News Block
 latestNewsTitle: "Novedades"
@@ -122,7 +122,7 @@ partnersC4sponsorsButton: "Transformate en sponsor"
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
-#subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
+subscribeAction: "http://eepurl.com/kOXDX"
 subscribeInfo: "La inscripción estará abierta pronto. El número de entradas es limitado. Manténte al tanto!"
 
 # Tickets Block
