@@ -39,15 +39,15 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {link: "https://plus.google.com/u/0/events/coi0oe0cn0avk6qun0pnt3849vs", text: "G+event"}
- - {permalink: "/schedule/", text: "Agenda"}
+# - {permalink: "/schedule/", text: "Agenda"}
  - {permalink: "/speakers/", text: "Oradores"}
  - {permalink: "/team/", text: "Equipo"}
 # - {permalink: "/logistics/", text: "Logistica"}
  - {permalink: "/hackathon/", text: "WorkShop"}
 bottomNavigationLinks:
- - {link: "http://bit.ly/dfua-c4p", text: "Se un orador"}
+# - {link: "http://bit.ly/dfua-c4p", text: "Se un orador"}
 rightNavigationButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Se un orador"}
+# - {link: "http://bit.ly/dfua-c4p", text: "Se un orador"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -101,10 +101,9 @@ mapMobileCenterCoordinates: "-34.604886, -58.388366"
 
 # Venue Block
 venueBlockTitle: "Locación"
-venueBigImage: "venue_0.jpg"
-venueSmallImage1: "venue_1.jpg"
-venueSmallImage2: "venue_2.jpg"
-venueSmallImage3: "venue_3.jpg"
+venueBigImage: "ccgsm_1.jpg"
+venueSmallImage1: "ccgsm.png"
+venueSmallImage2: "ccgsm_4.jpg"
 venueTitle: "Centro Cultural San Martín"
 venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
 
