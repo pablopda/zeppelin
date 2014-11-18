@@ -53,7 +53,7 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "GDG DevFest <typeout> 2014"
 eventDate: "6 Diciembre 2014"
-typeoutTextValues: '"AR", "Buenos Aires", "Bahia Blanca","Cordoba", "La Plata", "Mendoza","Neuquen", "Santa Fe", "Rosario"'
+typeoutTextValues: '"Argentina"'
 typeoutFallback: "AR"
 heroButtons:
 # - {link: "http://bit.ly/dfua-c4p", text: "Se un orador"}
@@ -62,14 +62,14 @@ heroButtons:
 # About Block
 aboutTitle: "Acerca del DevFest"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "El mayor evento sobre tecnología Google del país, cuidadosamente elaborado por las comunidads GDG! Espectaculares expositores y mucha diversión!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Un día completo de talleres, donde te nos ensuciamos las manos de coding, hacking and debugging. Veni a dar experimentar con tu tecnología preferida!" }
+ - {title: "Charlas", image: "conference.jpg", text: "El mayor evento sobre tecnología Google del país, cuidadosamente elaborado por las comunidads GDG! Espectaculares expositores y mucha diversión!" }
+ - {title: "Workshops", image: "workshop.jpg", text: "Un día completo de talleres, donde te nos ensuciamos las manos de coding, hacking and debugging. Vení a experimentar con tu tecnología preferida!" }
 # - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day free-style hackaton! sumate!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "450", specialCharacter: "+", info: "desarrolladores", detail: "de todas partes"}
+ - {count: "500", specialCharacter: "+", info: "desarrolladores", detail: "de todas partes"}
  - {count: "20", specialCharacter: "+", info: "horas", detail: " de tecnologías Google"}
  - {count: "20", specialCharacter: "+", info: "speakers", detail: "de nuestro país y el exterior"}
  - {count: "4", specialCharacter: "", info: "tracks paralelos", detail: "plus entertainment lounge"}
@@ -92,9 +92,9 @@ eventAddressLocality: "Buenos Aires"
 eventAddressLocalityRegion: "Buenos Aires"
 eventPostalCode: "79000"
 eventAddressCountry: "Argentina"
-eventStartTime: "2014-06-12T10:00"
+eventStartTime: "2014-06-12T10:45"
 eventDoorTime: "09:00"
-eventEndTime: "2014-06-12T22:30"
+eventEndTime: "2014-06-12T18:30"
 eventPlaceCoordinates: "-34.604886, -58.388366"
 mapCenterCoordinates: "-34.604886, -58.388366"
 mapMobileCenterCoordinates: "-34.604886, -58.388366"
@@ -105,12 +105,12 @@ venueBigImage: "ccgsm_1.jpg"
 venueSmallImage1: "ccgsm.png"
 venueSmallImage2: "ccgsm_4.jpg"
 venueTitle: "Centro Cultural San Martín"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueFeatures: ["4 salas totalmente equipadas", "Espacio común con varias sorpresas", "Ubicado en el centro de la ciudad"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
+tweetsFeedTitle: "Queres saber más?"
+twitterHashTag: "DevFestArg"
 #twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900"
 
 # Partners Block
@@ -171,7 +171,7 @@ socialLinks:
  - {link: "https://www.google.com/+gtugar", icon: "google-plus"}
  - {link: "https://twitter.com/gdgbsas", icon: "twitter"}
  - {link: "https://www.facebook.com/groups/gtug.bsas/", icon: "facebook"}
- - {permalink: "/feed.xml", icon: "rss"}
+# - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
