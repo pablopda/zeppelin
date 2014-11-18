@@ -2,46 +2,45 @@
   id: 0
   name: "Juan"
   surname: "Irungaray"
-  title: "Sponsors and Speakers Manager"
+  title: "Freelance Dev and PM"
   thumbnailUrl: JuanIrungaray.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+JuanIrungaray"}
-#    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
+    - {name: "twitter", link: "https://twitter.com/jirungaray"}
 #    - {name: "github", link: "https://github.com/zasadnyy"}
 #    - {name: "site", link: "http://zasadnyy.com/"}
 - 
   id: 1
   name: "Juanma"
   surname: "Baiutti"
-  title: "Designer and Web Developer"
+  title: "Project Manager"
   thumbnailUrl: JuanmaBaiutti.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+JuanmaBaiutti"}
-#    - {name: "github", link: "https://github.com/ozasadnyy"}
+    - {name: "twitter", link: "https://twitter.com/jirungaray"}
 - 
   id: 2
   name: "Gustavo"
   surname: "Cardelle"
-  title: "Sponsors and Speakers Manager"
+  title: "Consultor IT"
   thumbnailUrl: GustavoCardelle.png
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+GustavoCardelle"}
-#    - {name: "twitter", link: "https://twitter.com/p1f"}
-#    - {name: "site", link: "http://andrusiv.com/"}
+    - {name: "twitter", link: "https://twitter.com/gu5tavo71"}
 - 
   id: 4
   name: "Google Business Group"
   surname: "Buenos Aires"
-  title: "Android Program Committee"
+  title: ""
   thumbnailUrl: Logo-GBG-BsAs.png
   subTeam: true
   social: 
