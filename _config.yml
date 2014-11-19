@@ -58,7 +58,7 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "GDG DevFest <typeout> 2014"
 eventDate: "September - November, 2014"
-typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
+typeoutTextValues: '"Argentina"'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
@@ -67,13 +67,14 @@ heroButtons:
 # About Block
 aboutTitle: "About GDG DevFest"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Un día completo de talleres, donde te nos ensuciamos las manos de coding, hacking and debugging. Veni a dar experimentar con tu tecnología preferida!" }
+ - {title: "Charlas", image: "conference.jpg", text: "El mayor evento sobre tecnología Google del país, cuidadosamente elaborado por las comunidads GDG! Espectaculares expositores y mucha diversión!" }
+ - {title: "Workshops", image: "workshop.jpg", text: "Un día completo de talleres, donde te nos ensuciamos las manos de coding, hacking and debugging. Vení a experimentar con tu tecnología preferida!" }
  - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
+ - {count: "500", specialCharacter: "+", info: "desarrolladores", detail: "de todas partes"}
  - {count: "350", specialCharacter: "+", info: "desarrolladores", detail: "de todas partes"}
  - {count: "48", specialCharacter: "+", info: "horas", detail: " de tecnologías Google"}
  - {count: "20", specialCharacter: "+", info: "speakers", detail: "de nuestro país y el exterior"}
@@ -97,9 +98,9 @@ eventAddressLocality: "Lviv"
 eventAddressLocalityRegion: "Lvivska"
 eventPostalCode: "79000"
 eventAddressCountry: "Ukraine"
-eventStartTime: "2014-10-25T10:00"
+eventStartTime: "2014-06-12T10:45"
 eventDoorTime: "09:00"
-eventEndTime: "2014-10-25T20:00"
+eventEndTime: "2014-06-12T18:30"
 eventPlaceCoordinates: "49.843237, 24.028751"
 mapCenterCoordinates: "49.842537, 24.025701"
 mapMobileCenterCoordinates: "49.841620, 24.029411"
@@ -110,13 +111,12 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueFeatures: ["4 salas totalmente equipadas", "Espacio común con varias sorpresas", "Ubicado en el centro de la ciudad"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
+tweetsFeedTitle: "Queres saber más?"
+twitterHashTag: "DevFestArg"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
@@ -177,7 +177,7 @@ socialLinks:
  - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
  - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
  - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
- - {permalink: "/feed.xml", icon: "rss"}
+# - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"

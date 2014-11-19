@@ -1,10 +1,10 @@
 - 
   group: "Organiza"
   elements: 
-    - {name: "GDG Buenos Aires", description: "GDG Lviv - Open and volunteer geek community", link: "http://www.gdg.com.ar", imageUrl: "gdg-lviv.svg"}
+    - {name: "GDG Buenos Aires", description: "GDG Buenos Aires", link: "http://www.gdg.com.ar", imageUrl: "GDGBaires.png"}
 - 
   group: "Co-organizadores"
   elements: 
-    - {name: "GDG Crdoba", description: "GDG Kyiv - Open and volunteer geek community", link: "http://kyiv.gdg.org.ua", imageUrl: "gdg-kyiv.svg"}
+    - {name: "GBG Buenos Aires", description: "GBG Buenos Aires", link: "https://plus.google.com/100814777876749505949", imageUrl: "Logo-GBG-BsAs.png"}
     - {name: "GDG Santa F", description: "GDG Cherkassy - Open and volunteer geek community", link: "http://cherkassy.gdg.org.ua", imageUrl: "gdg-cherkasy.svg"}
     - {name: "GDG Dnipropetrovsk", description: "GDG Dnipropetrovsk - Open and volunteer geek community", link: "http://dnipro.gdg.org.ua", imageUrl: "gdg-dnipropetrovsk.svg"}
