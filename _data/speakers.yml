@@ -1,5 +1,5 @@
 - 
-  id: 3
+  id: 1
   name: "Juanma"
   surname: "Baiutti"
   company: "Tictapps - GDG Buenos Aires"
@@ -13,13 +13,13 @@
     - {name: "google-plus", link: "https://plus.google.com/+JuanmaBaiutti/"}
     - {name: "twitter", link: "https://twitter.com/juanmab"}
 - 
-  id: 4
+  id: 2
   name: "Matias"
   surname: "Molinas"
   company: "GDG Santa Fe - GDE"
   title: ""
   bio: "Software Guy. Miembro del programa Google Developers Experts para YouTube APIs. Matias es un orador regular en los distintos eventos organizados por Google y los GDG en todo el continente"
-  thumbnailUrl: MatiasMolinas.png
+  thumbnailUrl: MatiasMolina.png
   rockstar: true
   ribbon: 
     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
@@ -30,7 +30,7 @@
     - {name: "github", link: "https://github.com/matiasmolinas/"}
     - {name: "site", link: "http://matiasmolinas.blogspot.com.ar/"}
 - 
-  id: 5
+  id: 3
   name: "Jonatan"
   surname: "Ariste"
   company: "Cood.es - GDG Buenos Aires"
@@ -44,23 +44,23 @@
     - {name: "google-plus", link: "https://plus.google.com/+JonatanAristeOjeda/"}
     - {name: "twitter", link: "https://twitter.com/jonatanariste"}
     - {name: "site", link: "http://about.me/jonatanariste"}
-- 
-  id: 6
+-
+  id: 4
   name: "Hernan"
   surname: "Liendo"
   company: "ZupCat - GDE"
   title: "Co-fundador y CTO"
-  bio: "Hernan es co-fundador y CTO de ZupCat donde desarrollan y publican juegos sociales masivos. Cuenta con mas de 15 millones de installs distribuidos a lo largo y ancho del mundo. Es fundador de la cátedra "Técnicas Avanzadas de Programación - TADP" y fundador de "Tecnologías Avanzadas para la Construcción de Software - TACS) en la UTN. Con mas de 15 años de experiencia en la docencia, fue docente de "Arquitectura de Proyectos de IT - APIT" en la UTN y de Ing. de Software I y II en la UADE. Es uno de los 8 Google Developer Expert en Cloud Platform en el mundo."
+  bio: 'Hernan es co-fundador y CTO de ZupCat donde desarrollan y publican juegos sociales masivos. Cuenta con mas de 15 millones de installs distribuidos a lo largo y ancho del mundo. Es fundador de la cátedra "Técnicas Avanzadas de Programación - TADP" y fundador de "Tecnologías Avanzadas para la Construcción de Software - TACS) en la UTN. Con mas de 15 años de experiencia en la docencia, fue docente de "Arquitectura de Proyectos de IT - APIT" en la UTN y de Ing. de Software I y II en la UADE. Es uno de los 8 Google Developer Expert en Cloud Platform en el mundo.'
   thumbnailUrl: HernanLiendo.png
   rockstar: true
   ribbon:
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/}
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+HernanLiendo"}
     - {name: "twitter", link: "http://twitter.com/hernanliendo"}
     - {name: "github", link: "https://github.com/hernanliendo"}
 - 
-  id: 7
+  id: 5
   name: "Bruno"
   surname: "Miguens"
   company: ""
@@ -68,5 +68,5 @@
   bio: "Brueno es un Web developer, defensor de la corriente open source y entusiasta las nuevas tecnologías y tendencias que inundan la web"
   thumbnailUrl: BrunoMiguens.jpeg
   rockstar: true
-  social: 
+  social:
     - {name: "twitter", link: "https://twitter.com/brunomiguens"}
