@@ -4,7 +4,7 @@
   surname: "Baiutti"
   company: "Tictapps - GDG Buenos Aires"
   title: "Project Manager"
-  bio: "Juan Manuel es Ingeniero en informática. Es uno d eloos managers de GDG Buenos Aires. Trabajó como desarrollador, principalmente en tecnologias mobiles antes de pasar a tomar el rol de project manager"
+  bio: "Juan Manuel es Ingeniero en informática. Es uno de los managers de GDG Buenos Aires. Trabajó como desarrollador, principalmente en tecnologias mobiles antes de pasar a tomar el rol de project manager"
   thumbnailUrl: JuanmaBaiutti.jpg
   rockstar: true
   ribbon: 
@@ -70,3 +70,56 @@
   rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/brunomiguens"}
+- 
+  id: 6
+  name: "Pablo"
+  surname: "Perez De Angelis"
+  company: "Lvklabs - GDG Cordoba"
+  title: "Founder, NLP Engineer, Android & IOS Develolper - Manager de GDG Cordoba"
+  bio: ""
+  thumbnailUrl: PDA.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group Cordoba", url: "http://cordoba.gtugs.org/"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+PabloPDA"}
+    - {name: "github", link: "https://github.com/pablopda"}
+    - {name: "site", link: "http://www.pablopda.com.ar/"}
+- 
+  id: 7
+  name: "Cesar Diego"
+  surname: "Chacón Ramirez"
+  company: "Despegar.com - GDG La Plata"
+  title: "Desarrollador Sr - Manager de GDG La Plata"
+  bio: "Pablo es es una persona muy apasionada por la informatica. Le gusta aprender cosas nuevas todos los dias y en sus tiempos libres programa aplicaciones/plataformas que le ayudan a icrementar sus habilidades y conocimientos. Actualmente trabaja en Despegar.com como desarrollador Sr, esta trabajando en un proyecto personal de economia hogareña, es manager del GDG La Plata y estudia en la Universidad Nacional de La Plata. Sus lenguajes preferidos son Java, Python y C++, pero anda experimentando con otros lenguajes permanentemente"
+  thumbnailUrl: tahuri.png
+  rockstar: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group La Plata", url: "https://plus.google.com/+Lp-gtugOrg/"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+TahuriKiller"}
+    - {name: "twitter", link: "https://twitter.com/TahuriKiller"}
+    - {name: "site", link: "http://www.tahurikiller.com.ar/"}
+- 
+  id: 8
+  name: "Sebastian"
+  surname: "Omar Couto"
+  company: "Accenture"
+  title: "Functional Testing"
+  bio: "Sebastian se define como muy emprendedor, amante de los desafios, el aprendizaje y de compartir el conocimiento. Se maneja con varios lenguajes (Pascal, Delphi, HTML5, CSS, jS) y el testing. Trabaja actualmente en Accenture como Functional Testing y estudia en el Universidad Nacional de La Plata."
+  thumbnailUrl: cvas.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/111840458479759478345"}
+- 
+  id: 9
+  name: "Tomas"
+  surname: "Odell"
+  company: "Google Argentina"
+  title: "Advertising Operations Associate"
+  bio: ""
+  thumbnailUrl: TomasOdell.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/101322509350040247506/"}
+    - {name: "twitter", link: "https://twitter.com/tomasodell"}
