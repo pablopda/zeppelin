@@ -3,9 +3,9 @@
   elements: 
     - {name: "Google Developers", description: "Google Developers", link: "https://developers.google.com/groups/?hl=esa", imageUrl: "Google.Developer.300.png"}
 - 
-#  group: "Gold sponsor"
-#  elements: 
-#    - {name: "Zebra", description: "Zebra", link: "www.zebra.com", imageUrl: "zebra.png"}
+  group: "Gold sponsor"
+  elements: 
+    - {name: "Zebra", description: "Zebra", link: "www.zebra.com", imageUrl: "zebra.png"}
 
   group: "Con el apoyo de"
   elements: 
