@@ -1,20 +1,20 @@
 ---
 layout: post
-title: Don't be a jerk policy
+title: Politica no seas un pesado
 permalink: /cod/
 isStaticPost: true
 ---
 
-__This "Don't be a jerk" policy is a shortened, more casual version of the longer Code of Conduct policy. [Read full version](http://meta.wikimedia.org/wiki/Don%27t_be_a_dick).__
+__Esta politica "No seas un pesado" is una versión corta y casual de un Código de Conducta. [Version completa aca](http://meta.wikimedia.org/wiki/Don%27t_be_a_dick).__
 
 
-GDG Lviv prides itself on being an open, respectful, and inclusive community. That means jerky behavior isn’t allowed at GDG meetings. Because we know that it’s not obvious to everyone, here’s a reminder of the things we don’t allow: jokes or offensive comments about sex/sexuality/race/religion/nationality/body size, showing porn in public, touching people uninvited, or continuing to interact with someone after they’ve asked you to stop. Continuous jerky behavior may result in getting expelled from the meeting or GDG Chapter.
+GDG Buenos Aires se enorgullece de ser una comunidad abierta, respetuosa e inclusiva. Esos significa que el comportamiento "pesado" (pueden reemplazar esa palabra por la que mas les guste) no está permitido ni en la comunidad ni en los eventos. Y como esto puede que no sea obvio para algunos este es un breve recordatorio de las cosas que no estan permitidas: Bromas o comentarios ofensivos sobre sexo/sexualidad/raza/religion/nacionalidad/cuerpo, mostrar pornografia en publico, tocar a alguien de manera inapropiada, o simplemente continuar interactuando con alguien despues de que se les haya pedido que se detengan. Este tipo de comportamiento resultará en la expulsión del evento y/o de la comunidad.
 
-If someone is bothering you, please tell GDG Organizers immediately and they will take care of it. We want to maintain GDG DevFest’s awesomeness.
+Si alguien los molesta no duden en contactar a los organizadores y ellos tomaran medidas al respecto. Sigamos haciendo que los Devfest rockeen. 
 
 
-######Contacts:
+######Mas info:
 
-- Vitaliy Zasadnyy, +38 063 863 20 62, [vitaliy.zasadnyy@gdg.org.ua](mailto:vitaliy.zasadnyy@gdg.org.ua)
+-[contacto@gdg.com.ar](mailto:contacto@gdg.com.ar)
 
 <img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/cod.jpg" style="display:none">
