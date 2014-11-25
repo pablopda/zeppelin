@@ -3,7 +3,7 @@
   elements: 
     - {name: "GDG Buenos Aires", description: "GDG Buenos Aires", link: "http://www.gdg.com.ar", imageUrl: "GDGBaires.png"}
 - 
-  group: "Co-organizadores"
+  group: "Con el apoyo de:"
   elements: 
     - {name: "GBG Buenos Aires", description: "GBG Buenos Aires", link: "https://plus.google.com/100814777876749505949", imageUrl: "Logo-GBG-BsAs.png"}
 #    - {name: "GDG Santa F", description: "GDG Cherkassy - Open and volunteer geek community", link: "http://cherkassy.gdg.org.ua", imageUrl: "gdg-cherkasy.svg"}https://lh6.googleusercontent.com/-iQqNszIZTCc/UVcmV8JW3BI/AAAAAAAAACQ/wCB0gkzkZwA/s450-no/Logo-GBG-BsAs.png
