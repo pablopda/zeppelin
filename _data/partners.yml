@@ -5,7 +5,7 @@
 - 
 #  group: "Gold sponsor"
 #  elements: 
-#    - {name: "Motorola", description: "Motorola", link: "http://www.motorola.com.ar/", imageUrl: "motorola.png"}
+#    - {name: "Zebra", description: "Zebra", link: "www.zebra.com", imageUrl: "zebra.png"}
 
   group: "Con el apoyo de"
   elements: 
