@@ -6,7 +6,7 @@
   group: "Gold sponsor"
   elements: 
     - {name: "Zebra", description: "Zebra", link: "www.zebra.com", imageUrl: "zebra.png"}
-
+- 
   group: "Con el apoyo de"
   elements: 
     - {name: "CCGSM", description: "CCGSM", link: "http://elculturalsanmartin.org/", imageUrl: "CCSM.png", width: "120px"}
