@@ -3,10 +3,10 @@
   name: "Juanma"
   surname: "Baiutti"
   company: "Tictapps - GDG Buenos Aires"
-  title: "Project Manager, Manager de GDG Buenos Aires"
+  title: "Project Manager"
   bio: "Juan Manuel es Ingeniero en informática. Es uno de los managers de GDG Buenos Aires. Trabajó como desarrollador, principalmente en tecnologias mobiles antes de pasar a tomar el rol de project manager"
   thumbnailUrl: JuanmaBaiutti.jpg
-  rockstar: false
+  rockstar: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group Buenos Aires", url: "http://www.gdg.com.ar"}
   social: 
@@ -65,9 +65,9 @@
   surname: "Miguens"
   company: ""
   title: ""
-  bio: "Bruno es un Web developer, defensor de la corriente open source y entusiasta las nuevas tecnologías y tendencias que inundan la web"
+  bio: "Brueno es un Web developer, defensor de la corriente open source y entusiasta las nuevas tecnologías y tendencias que inundan la web"
   thumbnailUrl: BrunoMiguens.jpeg
-  rockstar: false
+  rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/brunomiguens"}
 - 
@@ -91,7 +91,7 @@
   surname: "Chacón Ramirez"
   company: "Despegar.com - GDG La Plata"
   title: "Desarrollador Sr - Manager de GDG La Plata"
-  bio: "Cesar es es una persona muy apasionada por la informatica. Le gusta aprender cosas nuevas todos los dias y en sus tiempos libres programa aplicaciones/plataformas que le ayudan a incrementar sus habilidades y conocimientos. Actualmente trabaja en Despegar.com como desarrollador Sr, esta trabajando en un proyecto personal de economia hogareña, es manager del GDG La Plata y estudia en la Universidad Nacional de La Plata. Sus lenguajes preferidos son Java, Python y C++, pero anda experimentando con otros lenguajes permanentemente"
+  bio: "Cesar es es una persona muy apasionada por la informatica. Le gusta aprender cosas nuevas todos los dias y en sus tiempos libres programa aplicaciones/plataformas que le ayudan a icrementar sus habilidades y conocimientos. Actualmente trabaja en Despegar.com como desarrollador Sr, esta trabajando en un proyecto personal de economia hogareña, es manager del GDG La Plata y estudia en la Universidad Nacional de La Plata. Sus lenguajes preferidos son Java, Python y C++, pero anda experimentando con otros lenguajes permanentemente"
   thumbnailUrl: tahuri.png
   rockstar: true
   ribbon: 
@@ -110,7 +110,7 @@
   title: "Functional Testing"
   bio: "Sebastian se define como muy emprendedor, amante de los desafios, el aprendizaje y de compartir el conocimiento. Se maneja con varios lenguajes (Pascal, Delphi, HTML5, CSS, jS) y el testing. Trabaja actualmente en Accenture como Functional Testing y estudia en el Universidad Nacional de La Plata."
   thumbnailUrl: Cvas.jpg
-  rockstar: false
+  rockstar: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group La Plata", url: "https://plus.google.com/+Lp-gtugOrg/"}
   social: 
