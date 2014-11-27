@@ -3,10 +3,10 @@
   name: "Juanma"
   surname: "Baiutti"
   company: "Tictapps - GDG Buenos Aires"
-  title: "Project Manager"
+  title: "Project Manager, Manager en GDG Buenos Aires"
   bio: "Juan Manuel es Ingeniero en informática. Es uno de los managers de GDG Buenos Aires. Trabajó como desarrollador, principalmente en tecnologias mobiles antes de pasar a tomar el rol de project manager"
   thumbnailUrl: JuanmaBaiutti.jpg
-  rockstar: true
+  rockstar: false
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group Buenos Aires", url: "http://www.gdg.com.ar"}
   social: 
@@ -34,7 +34,7 @@
   name: "Jonatan"
   surname: "Ariste"
   company: "Cood.es - GDG Buenos Aires"
-  title: "Desarrollador y Diseñador - Manager de GDG Buenos Aires"
+  title: "Desarrollador y Diseñador - Manager en GDG Buenos Aires"
   bio: "Jonatan hace muchas cosas, es desarrollador, diseñador, autor Users, owner Coood.es, streamer de #MACLive y manager del GDG Buenos Aires por decir solo algunas"
   thumbnailUrl: JonatanAriste.jpg
   rockstar: true
@@ -65,9 +65,9 @@
   surname: "Miguens"
   company: ""
   title: ""
-  bio: "Brueno es un Web developer, defensor de la corriente open source y entusiasta las nuevas tecnologías y tendencias que inundan la web"
+  bio: "Bruno es un Web developer, defensor de la corriente open source y entusiasta las nuevas tecnologías y tendencias que inundan la web"
   thumbnailUrl: BrunoMiguens.jpeg
-  rockstar: true
+  rockstar: false
   social:
     - {name: "twitter", link: "https://twitter.com/brunomiguens"}
 - 
@@ -91,7 +91,7 @@
   surname: "Chacón Ramirez"
   company: "Despegar.com - GDG La Plata"
   title: "Desarrollador Sr - Manager de GDG La Plata"
-  bio: "Cesar es es una persona muy apasionada por la informatica. Le gusta aprender cosas nuevas todos los dias y en sus tiempos libres programa aplicaciones/plataformas que le ayudan a icrementar sus habilidades y conocimientos. Actualmente trabaja en Despegar.com como desarrollador Sr, esta trabajando en un proyecto personal de economia hogareña, es manager del GDG La Plata y estudia en la Universidad Nacional de La Plata. Sus lenguajes preferidos son Java, Python y C++, pero anda experimentando con otros lenguajes permanentemente"
+  bio: "Cesar es es una persona muy apasionada por la informatica. Le gusta aprender cosas nuevas todos los dias y en sus tiempos libres programa aplicaciones/plataformas que le ayudan a incrementar sus habilidades y conocimientos. Actualmente trabaja en Despegar.com como desarrollador Sr, esta trabajando en un proyecto personal de economia hogareña, es manager del GDG La Plata y estudia en la Universidad Nacional de La Plata. Sus lenguajes preferidos son Java, Python y C++, pero anda experimentando con otros lenguajes permanentemente"
   thumbnailUrl: tahuri.png
   rockstar: true
   ribbon: 
@@ -110,7 +110,7 @@
   title: "Functional Testing"
   bio: "Sebastian se define como muy emprendedor, amante de los desafios, el aprendizaje y de compartir el conocimiento. Se maneja con varios lenguajes (Pascal, Delphi, HTML5, CSS, jS) y el testing. Trabaja actualmente en Accenture como Functional Testing y estudia en el Universidad Nacional de La Plata."
   thumbnailUrl: Cvas.jpg
-  rockstar: true
+  rockstar: false
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group La Plata", url: "https://plus.google.com/+Lp-gtugOrg/"}
   social: 
@@ -119,7 +119,7 @@
   id: 9
   name: "Tomas"
   surname: "Odell"
-  company: "Google Argentina"
+  company: "Google"
   title: "Advertising Operations Associate"
   bio: ""
   thumbnailUrl: TomasOdell.jpg
@@ -127,3 +127,72 @@
   social: 
     - {name: "google-plus", link: "https://plus.google.com/101322509350040247506/"}
     - {name: "twitter", link: "https://twitter.com/tomasodell"}
+-
+  id: 10
+  name: "Heber"
+  surname: "Lopez"
+  company: "G2 Technology - GDG Mendoza"
+  title: "Front-end Developer, Manager en GDG Mendoza"
+  bio: ""
+  thumbnailUrl: heber.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group Mendoza", url: "https://developers.google.com/groups/chapter/102188429092915191370/"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+HeberLopez/posts"}
+    - {name: "twitter", link: "https://twitter.com/HeberLZ"}
+-
+  id: 11
+  name: "Hernan"
+  surname: "Magrini"
+  company: "UNVIL S.A. - GDG Mendoza"
+  title: "Web Developer, Manager en GDG Mendoza"
+  bio: "Hernan es co fundador y organizador del GDG Mendoza. Se ha advocado al Desarrollo Web, lo apasiona experimentar con tecnologías de punta, disfruta de crear experiencias web únicas y cautivantes, sacandole el máximo provecho posible al navegador. Actualmente sus habilidades principales estan enfocadas en Javascript, HTML y CSS, teniendo amplios conocimientos y experiencia en el framework AngularJS, el cual utiliza a diario en su puesto de Web Developer en Intelifaz, y el full stack M.E.A.N. Además ha participado en proyectos diversos que varían desde juegos de realidad aumentada para dispositivos móviles hasta aplicaciones web con transacciones de Bitcoins."
+  thumbnailUrl: Hernan.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group Mendoza", url: "https://developers.google.com/groups/chapter/102188429092915191370/"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/117054261306853104149"}
+    - {name: "twitter", link: "https://twitter.com/HerMagrini"}
+-
+  id: 12
+  name: "Nick"
+  surname: "Bortolotti"
+  company: "Google"
+  title: "Program Manager LatAm"
+  bio: "Actualmente Nicolás Bortolotti trabaja como director de relaciones para desarrolladores en LatAm. Ha desarrollado comunidades académicas y de investigación en varios países de latinoamérica en la plataforma de desarrollo de Google, Web y Mobile. Nicolás ha participado académicamente como profesor de la Universidad Tecnológica Nacional (UTN), para las cátedras Ingeniería de Software Orientada a Objetos y Arquitecturas Móviles. En el ámbito de investigación, ha trabajado en el instituto INGAR-UTN-CONICET. En el ambiente corporativo, ha ejercido como arquitecto para el desarrollo de varias organizaciones nacionales y como CTO en Dotar Consulting, especializándose en ingeniería del software, movilidad y cloud computing. Nicolás es un orador y blogger prominente acerca del desarrollo de las tecnologías de Google. Tiene pasión por el desarrollo de software y los programas para el crecimiento de las comunidades de desarrolladores"
+  thumbnailUrl: Nick.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+NicolasBortolotti"}
+    - {name: "twitter", link: "https://twitter.com/nickbortolotti"}
+    - {name: "github", link: "https://github.com/nbortolotti"}
+    - {name: "site", link: "http://nbortolotti.blogspot.com.ar/"}
+-
+  id: 13
+  name: "Francisco"
+  surname: "Solsona"
+  company: "Google"
+  title: "Developer Relations Program Manager"
+  bio: ""
+  thumbnailUrl: Paco.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+solsona"}
+    - {name: "twitter", link: "https://twitter.com/solsona"}
+-
+  id: 14
+  name: "Gabriel"
+  surname: "Paradelo"
+  company: "Expertizen - GBG Buenos Aires"
+  title: "CEO & Owner, Manager de GBG Buenos Aires"
+  bio: "Gabriel es el fundador y CEO de Expertizen, Google Apps Premier Partner. Es un  apasionado por la tecnología y su uso para solucionar los problemas de las empresas y su gente. Posee experiencia en cloud computing, desarrollo ágil, scrum, arquitectura de software, tecnologías Microsoft, IBM, SAP, Oracle, Google y es investigador en computer forensics."
+  thumbnailUrl: Gabriel.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "GBG", title: "Google Business Group Buenos Aires", url: "https://www.google.com/landing/gbg/groups/chapter/100814777876749505949/"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+GabrielParadelo"}
+    - {name: "twitter", link: "https://twitter.com/gparadelo"}
+    - {name: "site", link: "http://gabrielparadelo.blogspot.com.ar/"}
