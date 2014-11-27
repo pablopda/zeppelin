@@ -148,7 +148,7 @@
   company: "UNVIL S.A. - GDG Mendoza"
   title: "Web Developer, Manager en GDG Mendoza"
   bio: "Hernan es co fundador y organizador del GDG Mendoza. Se ha advocado al Desarrollo Web, lo apasiona experimentar con tecnologías de punta, disfruta de crear experiencias web únicas y cautivantes, sacandole el máximo provecho posible al navegador. Actualmente sus habilidades principales estan enfocadas en Javascript, HTML y CSS, teniendo amplios conocimientos y experiencia en el framework AngularJS, el cual utiliza a diario en su puesto de Web Developer en Intelifaz, y el full stack M.E.A.N. Además ha participado en proyectos diversos que varían desde juegos de realidad aumentada para dispositivos móviles hasta aplicaciones web con transacciones de Bitcoins."
-  thumbnailUrl: Hernan.jpg
+  thumbnailUrl: HernanM.jpg
   rockstar: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group Mendoza", url: "https://developers.google.com/groups/chapter/102188429092915191370/"}
