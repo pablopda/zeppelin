@@ -124,6 +124,8 @@
   bio: ""
   thumbnailUrl: TomasOdell.jpg
   rockstar: true
+  ribbon: 
+    - {abbr: "Google", title: "Google", url: "https://www.google.com"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/101322509350040247506/"}
     - {name: "twitter", link: "https://twitter.com/tomasodell"}
@@ -164,6 +166,8 @@
   bio: "Actualmente Nicolás Bortolotti trabaja como director de relaciones para desarrolladores en LatAm. Ha desarrollado comunidades académicas y de investigación en varios países de latinoamérica en la plataforma de desarrollo de Google, Web y Mobile. Nicolás ha participado académicamente como profesor de la Universidad Tecnológica Nacional (UTN), para las cátedras Ingeniería de Software Orientada a Objetos y Arquitecturas Móviles. En el ámbito de investigación, ha trabajado en el instituto INGAR-UTN-CONICET. En el ambiente corporativo, ha ejercido como arquitecto para el desarrollo de varias organizaciones nacionales y como CTO en Dotar Consulting, especializándose en ingeniería del software, movilidad y cloud computing. Nicolás es un orador y blogger prominente acerca del desarrollo de las tecnologías de Google. Tiene pasión por el desarrollo de software y los programas para el crecimiento de las comunidades de desarrolladores"
   thumbnailUrl: Nick.jpg
   rockstar: true
+  ribbon: 
+    - {abbr: "Google", title: "Google", url: "https://www.google.com"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+NicolasBortolotti"}
     - {name: "twitter", link: "https://twitter.com/nickbortolotti"}
@@ -178,6 +182,8 @@
   bio: ""
   thumbnailUrl: Paco.jpg
   rockstar: true
+  ribbon: 
+    - {abbr: "Google", title: "Google", url: "https://www.google.com"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+solsona"}
     - {name: "twitter", link: "https://twitter.com/solsona"}
@@ -239,3 +245,30 @@
     - {name: "twitter", link: "https://twitter.com/sr_humo"}
     - {name: "github", link: "https://github.com/tinchoforever"}
     - {name: "site", link: "http://martinrabaglia.com.ar/"}
+-
+  id: 18
+  name: "Delfina"
+  surname: "Grossi"
+  company: "Google"
+  title: "Agency New Business Manager"
+  bio: ""
+  thumbnailUrl: Delfina.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "Google", title: "Google", url: "https://www.google.com"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/110616957611982185929"}
+    - {name: "twitter", link: "https://twitter.com/delfinagrossi"}
+-
+  id: 19
+  name: "Melina"
+  surname: "Lopez"
+  company: "Google"
+  title: ""
+  bio: ""
+  thumbnailUrl: Melina.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "Google", title: "Google", url: "https://www.google.com"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/112095718973760487155"}
