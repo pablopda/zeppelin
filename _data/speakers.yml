@@ -131,9 +131,9 @@
   id: 10
   name: "Heber"
   surname: "Lopez"
-  company: "G2 Technology - GDG Mendoza"
-  title: "Front-end Developer, Manager en GDG Mendoza"
-  bio: ""
+  company: "Intelifaz - GDG Mendoza"
+  title: "Web Developer, Manager en GDG Mendoza"
+  bio: "Heber es co-fundador y organizador líder del GDG Mendoza. Heber se desempeña como Web Developer en Intellifaz, es un entusiasta de javascript y la programación funcional. En los últimos dos años se ha especializado principalmente en el framework AngularJS. Ha dado eventos sobre Android, HTML5, Javascript, AngularJS, resources optimization, lazy data preload, al igual que muchos otros temas. Le gusta contribuir al software libre, ayudar en páginas como stackoverflow y junto con miembros del GDG lleva a cabo juntadas semanales abiertas, orientadas al aprendizaje de nuevas tecnologías. "
   thumbnailUrl: heber.jpg
   rockstar: true
   ribbon: 
@@ -145,7 +145,7 @@
   id: 11
   name: "Hernan"
   surname: "Magrini"
-  company: "UNVIL S.A. - GDG Mendoza"
+  company: "Intelifaz - GDG Mendoza"
   title: "Web Developer, Manager en GDG Mendoza"
   bio: "Hernan es co fundador y organizador del GDG Mendoza. Se ha advocado al Desarrollo Web, lo apasiona experimentar con tecnologías de punta, disfruta de crear experiencias web únicas y cautivantes, sacandole el máximo provecho posible al navegador. Actualmente sus habilidades principales estan enfocadas en Javascript, HTML y CSS, teniendo amplios conocimientos y experiencia en el framework AngularJS, el cual utiliza a diario en su puesto de Web Developer en Intelifaz, y el full stack M.E.A.N. Además ha participado en proyectos diversos que varían desde juegos de realidad aumentada para dispositivos móviles hasta aplicaciones web con transacciones de Bitcoins."
   thumbnailUrl: HernanM.jpg
