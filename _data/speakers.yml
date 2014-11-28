@@ -252,7 +252,7 @@
   company: "Google"
   title: "Agency New Business Manager"
   bio: ""
-  thumbnailUrl: Delfina.jpg
+  thumbnailUrl: Delfina.JPG
   rockstar: true
   ribbon: 
     - {abbr: "Google", title: "Google", url: "https://www.google.com"}
@@ -266,7 +266,7 @@
   company: "Google"
   title: ""
   bio: ""
-  thumbnailUrl: Melina.jpg
+  thumbnailUrl: Melina.JPG
   rockstar: true
   ribbon: 
     - {abbr: "Google", title: "Google", url: "https://www.google.com"}
