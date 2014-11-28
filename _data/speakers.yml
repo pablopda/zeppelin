@@ -6,7 +6,7 @@
   title: "Project Manager, Manager en GDG Buenos Aires"
   bio: "Juan Manuel es Ingeniero en informática. Es uno de los managers de GDG Buenos Aires. Trabajó como desarrollador, principalmente en tecnologias mobiles antes de pasar a tomar el rol de project manager"
   thumbnailUrl: JuanmaBaiutti.jpg
-  rockstar: false
+  rockstar: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group Buenos Aires", url: "http://www.gdg.com.ar"}
   social: 
@@ -67,7 +67,7 @@
   title: ""
   bio: "Bruno es un Web developer, defensor de la corriente open source y entusiasta las nuevas tecnologías y tendencias que inundan la web"
   thumbnailUrl: BrunoMiguens.jpeg
-  rockstar: false
+  rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/brunomiguens"}
 - 
@@ -110,7 +110,7 @@
   title: "Functional Testing"
   bio: "Sebastian se define como muy emprendedor, amante de los desafios, el aprendizaje y de compartir el conocimiento. Se maneja con varios lenguajes (Pascal, Delphi, HTML5, CSS, jS) y el testing. Trabaja actualmente en Accenture como Functional Testing y estudia en el Universidad Nacional de La Plata."
   thumbnailUrl: Cvas.jpg
-  rockstar: false
+  rockstar: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group La Plata", url: "https://plus.google.com/+Lp-gtugOrg/"}
   social: 
@@ -196,3 +196,46 @@
     - {name: "google-plus", link: "https://plus.google.com/u/0/+GabrielParadelo"}
     - {name: "twitter", link: "https://twitter.com/gparadelo"}
     - {name: "site", link: "http://gabrielparadelo.blogspot.com.ar/"}
+-
+  id: 15
+  name: "Wanda"
+  surname: "Croharé"
+  company: ""
+  title: ""
+  bio: "Wanda estudio ingenieria en sistemas de información en la UTN frsf y trabaja en el ministerio de educación de Santa Fé como informática y como freelance. Estuvo rodeada de computadoras desde que nacio, dedico casi toda su vida a la tecnología y crecio con ella. Desde los 16 empezo haciendo una web en html y desde entonces no puede detenerse. Se especializo en frontend y en aprender nuevas tecnologias e innovaciónes tecnologicas relacionadas con el arte."
+  thumbnailUrl: Wanda.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group Santa Fe", url: "https://plus.google.com/+SantafegtugBlogspot/"}
+    - {abbr: "GDG W", title: "Google Developer Group Women Santa Fe", url: "https://plus.google.com/107296635613920217101/"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/100509006556768321920/"}
+    - {name: "twitter", link: "https://twitter.com/WCrohareo"}
+-
+  id: 16
+  name: "Andres"
+  surname: "Pagella"
+  company: "R/GA"
+  title: "Technical Team Leader & Solutions Architect"
+  bio: ""
+  thumbnailUrl: Andres.jpeg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+AndrésPagella"}
+    - {name: "twitter", link: "https://twitter.com/mapagella"}
+    - {name: "github", link: "https://github.com/andrespagella"}
+    - {name: "site", link: "http://www.andrespagella.com/"}
+-
+  id: 17
+  name: "Martin"
+  surname: "Rabaglia"
+  company: "R/GA"
+  title: "Tech Lead"
+  bio: ""
+  thumbnailUrl: Martin.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/101968662177247694753"}
+    - {name: "twitter", link: "https://twitter.com/sr_humo"}
+    - {name: "github", link: "https://github.com/tinchoforever"}
+    - {name: "site", link: "http://martinrabaglia.com.ar/"}
