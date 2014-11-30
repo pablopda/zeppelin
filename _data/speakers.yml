@@ -264,7 +264,7 @@
   name: "Melina"
   surname: "Lopez"
   company: "Google"
-  title: ""
+  title: "Publisher Support Lead"
   bio: ""
   thumbnailUrl: Melina.JPG
   rockstar: true
@@ -272,3 +272,58 @@
     - {abbr: "Google", title: "Google", url: "https://www.google.com"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/112095718973760487155"}
+-
+  id: 20
+  name: "Juan"
+  surname: "Chiste"
+  company: "Google"
+  title: "AdWords Online Specialist"
+  bio: "Licenciado en Economía, amante de la tecnología y cachenguero de alma"
+  thumbnailUrl: JuanC.JPG
+  rockstar: true
+  ribbon: 
+    - {abbr: "Google", title: "Google", url: "https://www.google.com"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+JuanChiste"}
+    - {name: "twitter", link: "https://twitter.com/juanchiste"}
+-
+  id: 21
+  name: "Dalina"
+  surname: "Moron"
+  company: "Google"
+  title: "Online Specialist"
+  bio: ""
+  thumbnailUrl: Dalina.JPG
+  rockstar: true
+  ribbon: 
+    - {abbr: "Google", title: "Google", url: "https://www.google.com"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/103916563514213826257"}
+-
+  id: 22
+  name: "Ines"
+  surname: "Peralta Aguero"
+  company: "Google"
+  title: "Online Specialist"
+  bio: ""
+  thumbnailUrl: InesPA.JPG
+  rockstar: true
+  ribbon: 
+    - {abbr: "Google", title: "Google", url: "https://www.google.com"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/117212865500360469124"}
+    - {name: "twitter", link: "https://twitter.com/iperaltaaguero"}
+-
+  id: 23
+  name: "German"
+  surname: "Quiroz"
+  company: "GDG Santa Fe"
+  title: "Manager de GDG Santa Fe"
+  bio: ""
+  thumbnailUrl: German.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group Santa Fe", url: "https://plus.google.com/+SantafegtugBlogspot/"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+GermanQuirozBogner"}
+    - {name: "twitter", link: "https://twitter.com/betosantafe"}
