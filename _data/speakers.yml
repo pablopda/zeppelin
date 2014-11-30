@@ -279,7 +279,7 @@
   company: "Google"
   title: "AdWords Online Specialist"
   bio: "Licenciado en Economía, amante de la tecnología y cachenguero de alma"
-  thumbnailUrl: JuanC.JPG
+  thumbnailUrl: JuanC.jpg
   rockstar: true
   ribbon: 
     - {abbr: "Google", title: "Google", url: "https://www.google.com"}
@@ -293,7 +293,7 @@
   company: "Google"
   title: "Online Specialist"
   bio: ""
-  thumbnailUrl: Dalina.JPG
+  thumbnailUrl: Dalina.jpg
   rockstar: true
   ribbon: 
     - {abbr: "Google", title: "Google", url: "https://www.google.com"}
@@ -306,7 +306,7 @@
   company: "Google"
   title: "Online Specialist"
   bio: ""
-  thumbnailUrl: InesPA.JPG
+  thumbnailUrl: InesPA.jpg
   rockstar: true
   ribbon: 
     - {abbr: "Google", title: "Google", url: "https://www.google.com"}
