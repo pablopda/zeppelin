@@ -179,7 +179,7 @@
   surname: "Solsona"
   company: "Google"
   title: "Developer Relations Program Manager"
-  bio: ""
+  bio: "Francisco es líder de relaciones con desarrolladores en América Latina para Google, se enfoca en crecer el número de apps de alta calidad, promoviendo las plataformas para desarrolladores de Google, así como tecnologías abiertas; tanto a desarrolladores, como a  emprendedores. Ejecuta programas globales y soporta decenas de grupos técnicos de desarrolladores, emprendedores y expertos en diversos temas; para promover el crecimiento de los ecosistemas digitales en América Latina. Antes de dirigir las relaciones con desarrolladores en la región, trabajó por más de 10 años en la UNAM, como Coordinador de Cómputo de la Facultad de Ciencias y lideró varios proyectos de TI exitosos. Tiene amplia experiencia como profesor de ciencias de la computación y escribió un par de libros de fundamentos de computación. Ama los retos y ha sido encontrarlo trabajando en más de un proyecto a la vez, repetidamente. El tiempo libre lo comparte con su adorable (y geek) esposa, con amigos, practicando hiking, en el cine o escuchando novelas de fantasía y ciencia ficción."
   thumbnailUrl: Paco.jpg
   rockstar: true
   ribbon: 
@@ -223,8 +223,8 @@
   surname: "Pagella"
   company: "R/GA"
   title: "Technical Team Leader & Solutions Architect"
-  bio: ""
-  thumbnailUrl: Andres.jpeg
+  bio: "Andrés se define como Tech Lead @ R/GA, Founder of @WarsteedStudios, Game Developer, Speaker, Author and Mad Scientist."
+  thumbnailUrl: Andres.jpg
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+AndrésPagella"}
@@ -237,7 +237,7 @@
   surname: "Rabaglia"
   company: "R/GA"
   title: "Tech Lead"
-  bio: ""
+  bio: "Martín es Tech Lead en R/GA. Ingeniero Sistemas  de UTN FRBA, Miembro de IOTBue y Fundador de HackathonMakers"
   thumbnailUrl: Martin.jpg
   rockstar: true
   social: 
@@ -327,3 +327,29 @@
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+GermanQuirozBogner"}
     - {name: "twitter", link: "https://twitter.com/betosantafe"}
+-
+  id: 24
+  name: "Ivan"
+  surname: "Roumec"
+  company: "R/GA"
+  title: "Open Standard Developer"
+  bio: "Ivan trabaja como  Open Standard Developer en R/GA.- Apasionado por la tecnología y la automatización, fiel seguidor del movimiento open hardware."
+  thumbnailUrl: Ivan.png
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/gre3nlion"}
+    - {name: "github", link: "https://github.com/Gre3nLioN"}
+-
+  id: 25
+  name: "Myriam"
+  surname: "Tevez"
+  company: "GCBA, GBG Buenos Aires"
+  title: "Líder de Proyecto"
+  bio: "Myriam es especialista y consultora en comercio internacional, líder de proyectos especiales en la Dirección de Comercio Exterior del Gobierno de la Ciudad de Buenos Aires."
+  thumbnailUrl: Myriam.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "GBG", title: "Google Business Group Buenos Aires", url: "https://www.google.com/landing/gbg/groups/chapter/100814777876749505949/"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/113350026461707106774/"}
+    - {name: "twitter", link: "https://twitter.com/myritevez"}
