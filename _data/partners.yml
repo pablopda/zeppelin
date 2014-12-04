@@ -9,9 +9,9 @@
 - 
   group: "Con el apoyo de"
   elements: 
-    - {name: "CCGSM", description: "CCGSM", link: "http://elculturalsanmartin.org/", imageUrl: "CCSM.png", width: "120px"}
-    - {name: "GCBA", description: "GCBA", link: "http://www.buenosaires.gob.ar/", imageUrl: "gcba.png", width: "120px"}
-    - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg", width: "120px"}
+    - {name: "CCGSM", description: "CCGSM", link: "http://elculturalsanmartin.org/", imageUrl: "CCSM.png", width: "1800px"}
+    - {name: "GCBA", description: "GCBA", link: "http://www.buenosaires.gob.ar/", imageUrl: "gcba.png", width: "180px"}
+    - {name: "Genexys", description: "Genexys", link: "https://twitter.com/gxsoft", imageUrl: "Genexis.png", width: "180px"}
 #- 
 #  group: "Media partners"
 #  elements: 
