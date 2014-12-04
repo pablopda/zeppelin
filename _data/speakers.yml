@@ -353,3 +353,16 @@
   social: 
     - {name: "google-plus", link: "https://plus.google.com/113350026461707106774/"}
     - {name: "twitter", link: "https://twitter.com/myritevez"}
+-
+  id: 26
+  name: "Mariano"
+  surname: "Molina"
+  company: "Google"
+  title: "Mobile Partner Development"
+  bio: "Mariano es un especialista en estrategia en el sector móvil que trabaja en el equipo de Partner Business Solutions de Google Argentina. Con un foco en el mercado móvil, trabaja con desarrolladores en toda latinoamérica para crear e implementar estrategias de monetización. Con experiencia en mercados financieros y lanzando emprendimientos, Mariano trabaja con potencialesPartners en crear relaciones sustentables y mutuamente beneficiosas con Google."
+  thumbnailUrl: Mariano.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/105681358343402624641/"}
+    - {name: "twitter", link: "https://twitter.com/marianomolina_"}
+    - {name: "site", link: "http://www.sabenewsroom.com/"}
