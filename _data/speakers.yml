@@ -362,7 +362,20 @@
   bio: "Mariano es un especialista en estrategia en el sector móvil que trabaja en el equipo de Partner Business Solutions de Google Argentina. Con un foco en el mercado móvil, trabaja con desarrolladores en toda latinoamérica para crear e implementar estrategias de monetización. Con experiencia en mercados financieros y lanzando emprendimientos, Mariano trabaja con potencialesPartners en crear relaciones sustentables y mutuamente beneficiosas con Google."
   thumbnailUrl: Mariano.jpg
   rockstar: true
+  ribbon: 
+    - {abbr: "Google", title: "Google", url: "https://www.google.com"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/105681358343402624641/"}
     - {name: "twitter", link: "https://twitter.com/marianomolina_"}
     - {name: "site", link: "http://www.sabenewsroom.com/"}
+-
+  id: 27
+  name: "Fernando"
+  surname: "Costantini"
+  company: "ZupCat"
+  title: "Tech Lead"
+  bio: "Fernando se define como techie guy por naturaleza. Está a un par de finales de ser Ingeniero en Sistemas de Información @UTN. Docente de la materia Paradigmas de programación @UTN. Aplica y suma conocimientos como Tech lead @Zupcat, donde desarrollamos juegos masivos para mobile."
+  thumbnailUrl: Fernando.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/117893219649613842591"}
