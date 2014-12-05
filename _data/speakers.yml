@@ -63,12 +63,13 @@
   id: 5
   name: "Bruno"
   surname: "Miguens"
-  company: ""
+  company: "Sybox IT"
   title: ""
-  bio: "Bruno es un Web developer, defensor de la corriente open source y entusiasta las nuevas tecnologías y tendencias que inundan la web"
+  bio: "Desarrollador web y entusiasta en lo que respecta a las nuevas tecnologías mobile"
   thumbnailUrl: BrunoMiguens.jpeg
   rockstar: true
   social:
+    - {name: "google-plus", link: "https://plus.google.com/+BrunoMiguensD"}
     - {name: "twitter", link: "https://twitter.com/brunomiguens"}
 - 
   id: 6
