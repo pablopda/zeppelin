@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG DevFest Season 2014"
+title: "GDG Córdoba DevFest 2015"
 email: "devfest@gdg.org.ua"
 description: "GDG DevFest es un conjunto de ventos tecnicos al rededor del mundo"
 baseurl: "/zeppelin"
@@ -21,9 +21,9 @@ permalink: "/blog/:title"
 #siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group - BsAs - Cordoba - Santa Fe - completar"
-organizerDescription: "Comunidades de desarrolladores de Argentina a las que nos apasiona la tecnología y construimos productos innovadores con tecnologías Google."
+organizerName: "GDG Córdoba"
+organizerAlternateName: "Google Developer Group Córdoba"
+organizerDescription: "Comunidades de desarrolladores de Córdoba a las que nos apasiona la tecnología y construimos productos innovadores con tecnologías Google."
 organizerEmail: "some@mail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://lviv.gdg.org.ua/"
@@ -56,8 +56,8 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "GDG DevFest <typeout> 2014"
-eventDate: "September - November, 2014"
+heroTitle: "GDG DevFest Córdoba <typeout> 2015"
+eventDate: "Octubre 18, 2015"
 typeoutTextValues: '"Argentina"'
 typeoutFallback: "Season"
 heroButtons:
