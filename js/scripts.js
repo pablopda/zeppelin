@@ -39,9 +39,9 @@
                 logo.removeClass('logo-dark').addClass('logo-light');
             }
 
-            if (scroll >= $('.top-section').height()) {
+            if (scroll >= $('.top-section').height() && $(window).width() > 767) {
                 buyButton.removeClass('right-nav-button-hidden');
-            } else {
+            } else if (scroll < $('.top-section').height() && $(window).width() > 767){
                 buyButton.addClass('right-nav-button-hidden');
             }
 
@@ -80,28 +80,6 @@
             }
         });
 
-        var scrollStatus = 1;
-        // $(document).on('touchmove', function(e) {
-        //     if (scrollStatus == 0) {
-        //         e.preventDefault();
-        //     } else {
-        //         return true;
-        //     }
-        // });
-        // $('body').on('touchmove', '.scrollable', function(e) {
-        //     e.stopPropagation();
-        // });
-
-        function toogleScrolling() {
-            if (scrollStatus == 0) {
-                $('body').removeClass('disable-scrolling');
-                scrollStatus = 1;
-            } else {
-                $('body').addClass('disable-scrolling');
-                scrollStatus = 0;
-            }
-        }
-
         $(function() {
             $('a[href*=#]:not([href=#])').click(function() {
                 if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location.hostname == this.hostname) {
@@ -120,6 +98,12 @@
             $('a[href=#]').click(function() {
                 event.preventDefault();
             });
+        });
+        $(function() {
+            if(window.location.href.indexOf("schedule") > -1 && window.location.hash) {
+                var hash = window.location.hash;
+                $(hash).click();
+            } 
         });
 
         $(function() {
@@ -195,19 +179,11 @@
         var container = $('.st-container');
         $('#menu-trigger').click(function(event) {
             event.stopPropagation();
-            var effect = $(this).attr('data-effect');
-            if (!container.hasClass('st-menu-open')) {
-                container.addClass(effect).delay(25).addClass('st-menu-open');
-                toogleScrolling();
-            } else {
-                container.removeClass('st-menu-open');
-                toogleScrolling();
-            }
+            container.toggleClass('st-menu-open');
         });
         $('.st-pusher').click(function() {
             if (container.hasClass('st-menu-open')) {
                 container.removeClass('st-menu-open');
-                toogleScrolling();
             }
         });
 
@@ -244,6 +220,13 @@
                 slider.find('.slider-item').first().addClass('slider-current-item').removeClass('hidden');
                 slider.find('.slider-current-item').last().removeClass('slider-current-item').addClass('hidden');
             }
+        });
+        $('.modal').on('hidden.bs.modal', function () {
+            var iframe = $(this).find('iframe');
+            iframe.attr('src', iframe.attr('src'));
+        });
+        $('.slot').click(function() {
+            location.hash = $(this).attr('id');
         });
 
 
@@ -295,7 +278,7 @@
 
     // Google maps static
     if (typeof staticGoogleMaps !== 'undefined') {
-        $('#canvas-map').addClass('image-section').css('background-image','url(http://maps.googleapis.com/maps/api/staticmap?zoom=17&center=' + mobileCenterMapCoordinates +'&size=' + $(window).width() + 'x700&scale=2&language=en&markers=icon:' + icon +'|'+ eventPlaceCoordinates +'&maptype=roadmap&style=visibility:on|lightness:40|gamma:1.1|weight:0.9&style=element:labels|visibility:off&style=feature:water|hue:0x0066ff&style=feature:road|visibility:on&style=feature:road|element:labels|saturation:-30)');
+        $('#canvas-map').addClass('image-section').css('background-image','url(https://maps.googleapis.com/maps/api/staticmap?zoom=17&center=' + mobileCenterMapCoordinates +'&size=' + $(window).width() + 'x700&scale=2&language=en&markers=icon:' + icon +'|'+ eventPlaceCoordinates +'&maptype=roadmap&style=visibility:on|lightness:40|gamma:1.1|weight:0.9&style=element:labels|visibility:off&style=feature:water|hue:0x0066ff&style=feature:road|visibility:on&style=feature:road|element:labels|saturation:-30)');
     }
 
     //Google maps
@@ -500,6 +483,15 @@
                 setDirectionInput(origin);
                 $('#find-way h3').removeClass('fadeInUp').addClass('fadeOutDown');
             }
+            
+            function calcRouteFromMyLocation() {
+                if (navigator.geolocation) {
+                    navigator.geolocation.getCurrentPosition(function(position) {
+                        origin = new google.maps.LatLng(position.coords.latitude, position.coords.longitude);
+                        calcRoute(origin, 'TRANSIT');
+                    });
+                }
+            }
 
             function makeMarker(position) {
                 var directionMarker = new google.maps.Marker({
@@ -559,15 +551,7 @@
                 calcRoute(origin, selectedMode);
             });
 
-
-            $("#direction-locate").click(function() {
-                if (navigator.geolocation) {
-                    navigator.geolocation.getCurrentPosition(function(position) {
-                        origin = new google.maps.LatLng(position.coords.latitude, position.coords.longitude);
-                        calcRoute(origin, 'TRANSIT');
-                    });
-                }
-            });
+            $("#direction-locate").click(calcRouteFromMyLocation);
 
             $("#direction-cancel").click(function() {
                 $('#find-way').removeClass('location-active');
@@ -587,6 +571,10 @@
                 smoothZoom(5);
                 $('#find-way h3').removeClass('fadeOutDown').addClass('fadeInUp');
             });
+
+            if (typeof autoDirectionEnabled !== 'undefined' && autoDirectionEnabled == true) {
+                calcRouteFromMyLocation();
+            }
         }
 
         google.maps.event.addDomListener(window, 'load', initialize);

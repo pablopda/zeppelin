@@ -1,6 +1,7 @@
 $modal-color: #757575;
 $modal-highlight-color: #212121;
 .modal {
+    z-index: 1050;
     .icon-cross {
         width: 19px;
         height: 19px;
@@ -22,14 +23,22 @@ $modal-highlight-color: #212121;
         }
     }
 }
+.modal-backdrop {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    z-index: 1040;
+}
 .modal-content {
     border-radius: 4px;
     box-shadow: 0 5px 15px rgba(0, 0, 0, .3);
 }
 .modal-dialog {
     @media (min-width: 768px) {
-    width: 740px;
-    margin-top: 100px;
+        width: 740px;
+        margin-top: 100px;
     }
 }
 .modal-body {
@@ -44,9 +53,15 @@ $modal-highlight-color: #212121;
             color: $modal-highlight-color;
         }
     }
+    .theme-video {
+        margin: 20px 0;
+    }
     .theme-description {
-        margin: 12px 0 37px;
-    } 
+        margin: 12px 0 20px;
+    }
+    .theme-presentation {
+        font-size: 15px;
+    }
     .people-details {
         .row {
             margin-top: 20px;
@@ -64,7 +79,7 @@ $modal-highlight-color: #212121;
         .details {
             padding-left: 30px;
             @media (max-width: 767px) {
-                padding: 0;    
+                padding: 0;
             }
         }
         .name {
@@ -81,13 +96,13 @@ $modal-highlight-color: #212121;
             padding: 0;
             list-style: none;
             @media (max-width: 767px) {
-                text-align: center;    
+                text-align: center;
             }
             li {
                 display: inline-block;
                 padding-right: 3px;
             }
-        }      
+        }
     }
 }
 .modal-ribbon-wrapper {
