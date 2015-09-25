@@ -1,7 +1,7 @@
 - 
   group: "Organiza"
   elements: 
-    - {name: "GDG Córdoba", description: "GDG Córdoba", link: "http://www.gdg.com.ar", imageUrl: "GDGBaires.png"}
+    - {name: "GDG Córdoba", description: "GDG Córdoba", link: "http://www.gdgcba.com", imageUrl: "GDG-Córdoba.png"}
 - 
   group: "Con el apoyo de"
   elements: 

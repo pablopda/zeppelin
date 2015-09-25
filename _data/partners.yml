@@ -1,17 +1,17 @@
 - 
   group: "General sponsor"
   elements: 
-    - {name: "Google Developers", description: "Google Developers", link: "https://developers.google.com/groups/?hl=esa", imageUrl: "Google.Developer.300.png"}
+    - {name: "Google Developers", description: "Google Developers", link: "https://developers.google.com/groups/?hl=esa", imageUrl: "Google.Developer.300.png", width: "190px"}
 - 
-  group: "Gold sponsor"
+  group: "Silver sponsor"
   elements: 
-    - {name: "Zebra", description: "Zebra", link: "http://www.zebra.com", imageUrl: "zebra.png"}
+    - {name: "Toptal", description: "Toptal", link: "http://www.toptal.com", imageUrl: "toptal.png"}
 - 
   group: "Con el apoyo de"
   elements: 
-    - {name: "CCGSM", description: "CCGSM", link: "http://elculturalsanmartin.org/", imageUrl: "CCSM.png", width: "1800px"}
-    - {name: "GCBA", description: "GCBA", link: "http://www.buenosaires.gob.ar/", imageUrl: "gcba.png", width: "180px"}
-    - {name: "Genexys", description: "Genexys", link: "https://twitter.com/gxsoft", imageUrl: "Genexis.png", width: "180px"}
+    - {name: "Tuquejasuma.com", description: "tuquejasuma.com", link: "http://tuquejasuma.com/", imageUrl: "tuquejasuma.png", width: "1800px"}
+    - {name: "Intel", description: "Intel", link: "http://www.intel.com/", imageUrl: "intel.jpg", width: "160px"}
+    - {name: "Globant", description: "Globant", link: "https://globant.com", imageUrl: "globant.png", width: "180px"}
 #- 
 #  group: "Media partners"
 #  elements: 

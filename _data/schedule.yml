@@ -1,50 +1,51 @@
 - 
-  date: "2014-12-06"
-  dateReadable: "Diciembre 6"
+  date: "2015-10-18"
+  dateReadable: "Octubre 18"
   tracks: 
-    - {title: "Android & Wearables", color: "#90be4e"}
-    - {title: "Web & Cloud", color: "#03a9f4"}
     - {title: "Communidad", color: "#e91e63"}
   timeslots:
     - {
-    	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [002, 003, 004]
+    	startTime: "12:30",
+    	endTime: "13:00",
+    	sessionIds: [101]
     }
     - {
-        startTime: "11:00",
-        endTime: "11:45",
-        sessionIds: [003, 404, 004]
+    	startTime: "13:00",
+    	endTime: "13:40",
+    	sessionIds: [002]
     }
     - {
-    	startTime: "12:00",
-    	endTime: "11:45",
-    	sessionIds: [307]
-    }
-- 
-  date: "2014-10-25"
-  dateReadable: "October 25"
-  tracks: 
-    - {title: "Android", color: "#90be4e"}
-    - {title: "Web & Cloud", color: "#03a9f4"}
-  timeslots: 
-    - {
-    	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [404, 002]
-    }
-    - {
-    	startTime: "11:00",
-    	endTime: "11:45",
-    	sessionIds: [002, 003]
-    }
-    - {
-        startTime: "13:00",
-        endTime: "13:45",
+        startTime: "13:50",
+        endTime: "14:30",
         sessionIds: [003]
     }
     - {
-    	startTime: "14:00",
-    	endTime: "15:00",
-    	sessionIds: [503]
+    	startTime: "14:40",
+    	endTime: "15:20",
+    	sessionIds: [004]
+    }
+    - {
+    	startTime: "15:20",
+    	endTime: "15:50",
+    	sessionIds: [307]
+    }
+    - {
+    	startTime: "15:50",
+    	endTime: "16:30",
+    	sessionIds: [005]
+    }
+    - {
+    	startTime: "16:40",
+    	endTime: "17:20",
+    	sessionIds: [006]
+    }
+    - {
+    	startTime: "17:30",
+    	endTime: "18:10",
+    	sessionIds: [007]
+    }
+    - {
+    	startTime: "18:20",
+    	endTime: "19:00",
+    	sessionIds: [008]
     }
