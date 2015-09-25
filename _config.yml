@@ -99,9 +99,9 @@ eventAddressCountry: "Argentina"
 eventStartTime: "2015-10-12T13:00"
 eventDoorTime: "12:00"
 eventEndTime: "2015-10-12T19:30"
-eventPlaceCoordinates: "49.843237, 24.028751"
-mapCenterCoordinates: "49.842537, 24.025701"
-mapMobileCenterCoordinates: "49.841620, 24.029411"
+eventPlaceCoordinates: "-31.413770, -64.190651"
+mapCenterCoordinates: "-31.413770, -64.190651"
+mapMobileCenterCoordinates: "-31.413770, -64.190651"
 
 # Venue Block
 venueBlockTitle: "Venue"
