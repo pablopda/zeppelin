@@ -56,29 +56,27 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "GDG DevFest Córdoba <typeout> 2015"
+heroTitle: "GDG Córdoba <typeout> 2015"
 eventDate: "Octubre 18, 2015"
-typeoutTextValues: '"Argentina"'
+typeoutTextValues: '"DevFest"'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {permalink: "/#tickets", text: "Registrate"}
 
 # About Block
 aboutTitle: "About GDG DevFest"
 aboutBlock:
- - {title: "Charlas", image: "conference.jpg", text: "El mayor evento sobre tecnología Google del país, cuidadosamente elaborado por las comunidads GDG! Espectaculares expositores y mucha diversión!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Un día completo de talleres, donde te nos ensuciamos las manos de coding, hacking and debugging. Vení a experimentar con tu tecnología preferida!" }
+ - {title: "Charlas", image: "conference.jpg", text: "Uno de los mayores eventos sobre tecnología Google del continente, cuidadosamente elaborado por las comunidads GDG! Espectaculares expositores y mucha diversión!" }
+ - {title: "Workshops", image: "workshop.jpg", text: "Un día completo de charlas, donde te nos ensuciamos las manos de coding, hacking and debugging. Vení a experimentar con tu tecnología preferida!" }
  - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "500", specialCharacter: "+", info: "desarrolladores", detail: "de todas partes"}
- - {count: "350", specialCharacter: "+", info: "desarrolladores", detail: "de todas partes"}
- - {count: "48", specialCharacter: "+", info: "horas", detail: " de tecnologías Google"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "de nuestro país y el exterior"}
- - {count: "3", specialCharacter: "", info: "tracks paralelos", detail: "plus entertainment lounge"}
+ - {count: "200", specialCharacter: "+", info: "desarrolladores", detail: "de todas partes"}
+ - {count: "6", specialCharacter: "+", info: "horas", detail: " de tecnologías"}
+ - {count: "9", specialCharacter: "+", info: "speakers", detail: "de nuestro país y el exterior"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -87,20 +85,20 @@ latestNewsTitle: "Latest news"
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 6
 rockstarSpeakersTitle: "Rockstar speakers"
-rockstarSpeakersButtonText: "See all speakers"
+rockstarSpeakersButtonText: "Todos los speakers"
 
 # Location Block
 locationBlockTitle: "Ubicación"
-eventLocationName: "Conference Hall"
-eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
-eventStreetAddress: "22 Teatral'na St"
-eventAddressLocality: "Lviv"
-eventAddressLocalityRegion: "Lvivska"
-eventPostalCode: "79000"
-eventAddressCountry: "Ukraine"
-eventStartTime: "2014-06-12T10:45"
-eventDoorTime: "09:00"
-eventEndTime: "2014-06-12T18:30"
+eventLocationName: "Auditorio Luis Gagliano"
+eventLocationLink: "http://auditorioluisgagliano.blogspot.com/"
+eventStreetAddress: "Jujuy 27"
+eventAddressLocality: "Córdoba"
+eventAddressLocalityRegion: "Córdoba"
+eventPostalCode: "5000"
+eventAddressCountry: "Argentina"
+eventStartTime: "2015-10-12T13:00"
+eventDoorTime: "12:00"
+eventEndTime: "2015-10-12T19:30"
 eventPlaceCoordinates: "49.843237, 24.028751"
 mapCenterCoordinates: "49.842537, 24.025701"
 mapMobileCenterCoordinates: "49.841620, 24.029411"
@@ -111,12 +109,12 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueFeatures: ["4 salas totalmente equipadas", "Espacio común con varias sorpresas", "Ubicado en el centro de la ciudad"]
+venueFeatures: ["Salon totalmente equipado", "Espacio común con varias sorpresas", "Ubicado en el centro de la ciudad"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "Queres saber más?"
-twitterHashTag: "DevFestArg"
+twitterHashTag: "DevFestCBA"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
@@ -174,20 +172,20 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ - {link: "https://plus.google.com/u/0/115109757247453512398/posts", icon: "google-plus"}
+ - {link: "https://twitter.com/intent/user?screen_name=gdgcordoba", icon: "twitter"}
+ - {link: "https://facebook.com/GDGcba", icon: "facebook"}
 # - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
+   #- {link: "http://gdg.org.ua", text: "GDG.org.ua"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:gdg@pablopda.com.ar", text: "gdg@pablopda.com.ar"}
  -
   title: "FAQ"
   links:
@@ -196,7 +194,7 @@ footerBlocks:
 # Blog
 blogTitle: "Latest news"
 blogCommentsEnabled: true
-discusShortName: "devfestua"
+discusShortName: "devfestcba"
 
 # Speakers List Block
 showSessions: true
@@ -219,14 +217,14 @@ logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
 directionDetailsImage: "direction-details.jpg"
-directionDetailsTitle: "Get around Lviv"
+directionDetailsTitle: "Get around CBA"
 directionDetailsCards:
- - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
+ - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="">airport website</a>.'}
  - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
  - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
 directionDetailsWideCards:
  -
-  title: "Questions?"
+  title: "Preguntas?"
   subCards:
    -
     title: "Hotels"
@@ -252,7 +250,7 @@ directionDetailsWideCards:
 
 # Hackathon
 hackathonTitle: "Hackathon"
-enableHackathon: true
+enableHackathon: false
 
 # Hackathon About Block
 aboutHackathonTitle: "Meet our themes"
