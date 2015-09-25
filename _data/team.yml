@@ -1,59 +1,26 @@
 - 
   id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Freelance Dev and PM"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  name: "Pablo"
+  surname: "Perez De Angelis"
+  title: "NLP Engineer - Co-founder tuquejasuma.com"
+  thumbnailUrl: PDA.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/jirungaray"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
+    - {name: "google-plus", link: "https://google.com/+PabloPDA"}
+    - {name: "twitter", link: "https://twitter.com/arkatPDA"}
+    - {name: "github", link: "https://github.com/pablopda"}
+    - {name: "site", link: "http://juliapickup.com/"}
 - 
   id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Project Manager"
-  thumbnailUrl: OlehZasadnyy.jpg
+  name: "Mariana"
+  surname: "Vargas Vieyra"
+  title: "PHD candidate"
+  thumbnailUrl: Mariana.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/juanmab"}
-- 
-  id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Consultor IT"
-  thumbnailUrl: OstapAndrusiv.jpg
-  team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/gu5tavo71"}
-- 
-  id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: ""
-  thumbnailUrl: DmytroDanylyk.jpg
-  subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
-- 
-  id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
-  subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    #- {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
+    #- {name: "twitter", link: "https://twitter.com/juanmab"}
