@@ -1,123 +1,5 @@
 - 
   id: 1
-  name: "Juanma"
-  surname: "Baiutti"
-  company: "Tictapps - GDG Buenos Aires"
-  title: "Project Manager, Manager en GDG Buenos Aires"
-  bio: "Juan Manuel es Ingeniero en informática. Es uno de los managers de GDG Buenos Aires. Trabajó como desarrollador, principalmente en tecnologias mobiles antes de pasar a tomar el rol de project manager"
-  thumbnailUrl: JuanmaBaiutti.jpg
-  rockstar: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group Buenos Aires", url: "http://www.gdg.com.ar"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+JuanmaBaiutti/"}
-    - {name: "twitter", link: "https://twitter.com/juanmab"}
-- 
-  id: 2
-  name: "Matias"
-  surname: "Molinas"
-  company: "GDG Santa Fe - GDE"
-  title: ""
-  bio: "Matias estudio Bioingeniería, y tiene mas de 15 años de experiencia como desarrollador de software. Se desempeñó como desarrollador, I+D, Arquitecto y CTO. Es organizador del Santa Fe GTUG y es Google Developer Expert para las APIs de YouTube."
-  thumbnailUrl: MatiasMolina.png
-  rockstar: true
-  ribbon: 
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-    - {abbr: "GDG", title: "Google Developer Group Santa Fe", url: "https://developers.google.com/groups/chapter/115366164260856302313/"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+MatiasMolinas/"}
-    - {name: "twitter", link: "https://twitter.com/matiasmolinas"}
-    - {name: "github", link: "https://github.com/matiasmolinas/"}
-    - {name: "site", link: "http://matiasmolinas.blogspot.com.ar/"}
-- 
-  id: 3
-  name: "Jonatan"
-  surname: "Ariste"
-  company: "Cood.es - GDG Buenos Aires"
-  title: "Desarrollador y Diseñador - Manager en GDG Buenos Aires"
-  bio: "Jonatan hace muchas cosas, es desarrollador, diseñador, autor Users, owner Coood.es, streamer de #MACLive y manager del GDG Buenos Aires por decir solo algunas"
-  thumbnailUrl: JonatanAriste.jpg
-  rockstar: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group Buenos Aires", url: "http://www.gdg.com.ar"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+JonatanAristeOjeda/"}
-    - {name: "twitter", link: "https://twitter.com/jonatanariste"}
-    - {name: "site", link: "http://about.me/jonatanariste"}
--
-  id: 4
-  name: "Hernan"
-  surname: "Liendo"
-  company: "ZupCat - GDE"
-  title: "Co-fundador y CTO"
-  bio: 'Hernan es co-fundador y CTO de ZupCat donde desarrollan y publican juegos sociales masivos. Cuenta con mas de 15 millones de installs distribuidos a lo largo y ancho del mundo. Es fundador de la cátedra "Técnicas Avanzadas de Programación - TADP" y fundador de "Tecnologías Avanzadas para la Construcción de Software - TACS) en la UTN. Con mas de 15 años de experiencia en la docencia, fue docente de "Arquitectura de Proyectos de IT - APIT" en la UTN y de Ing. de Software I y II en la UADE. Es uno de los 8 Google Developer Expert en Cloud Platform en el mundo.'
-  thumbnailUrl: HernanLiendo.png
-  rockstar: true
-  ribbon:
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+HernanLiendo"}
-    - {name: "twitter", link: "http://twitter.com/hernanliendo"}
-    - {name: "github", link: "https://github.com/hernanliendo"}
-- 
-  id: 5
-  name: "Bruno"
-  surname: "Miguens"
-  company: "Sybox IT"
-  title: ""
-  bio: "Desarrollador web y entusiasta en lo que respecta a las nuevas tecnologías mobile"
-  thumbnailUrl: BrunoMiguens.jpeg
-  rockstar: true
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/+BrunoMiguensD"}
-    - {name: "twitter", link: "https://twitter.com/brunomiguens"}
-- 
-  id: 6
-  name: "Pablo"
-  surname: "Perez De Angelis"
-  company: "Lvklabs - GDG Cordoba"
-  title: "Founder, NLP Engineer, Android & IOS Develolper - Manager de GDG Cordoba"
-  bio: ""
-  thumbnailUrl: PDA.jpg
-  rockstar: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group Cordoba", url: "http://cordoba.gtugs.org/"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+PabloPDA"}
-    - {name: "github", link: "https://github.com/pablopda"}
-    - {name: "site", link: "http://www.pablopda.com.ar/"}
-- 
-  id: 7
-  name: "Cesar"
-  surname: "Chacón Ramirez"
-  company: "Despegar.com - GDG La Plata"
-  title: "Desarrollador Sr - Manager de GDG La Plata"
-  bio: "Cesar es es una persona muy apasionada por la informatica. Le gusta aprender cosas nuevas todos los dias y en sus tiempos libres programa aplicaciones/plataformas que le ayudan a incrementar sus habilidades y conocimientos. Actualmente trabaja en Despegar.com como desarrollador Sr, esta trabajando en un proyecto personal de economia hogareña, es manager del GDG La Plata y estudia en la Universidad Nacional de La Plata. Sus lenguajes preferidos son Java, Python y C++, pero anda experimentando con otros lenguajes permanentemente"
-  thumbnailUrl: tahuri.png
-  rockstar: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group La Plata", url: "https://plus.google.com/+Lp-gtugOrg/"}
-  social: 
-    - {name: "facebook", link: "https://www.facebook.com/Sys.Tahuri.Killer"}
-    - {name: "google-plus", link: "https://plus.google.com/+TahuriKiller"}
-    - {name: "twitter", link: "https://twitter.com/TahuriKiller"}
-    - {name: "github", link: "https://github.com/Tahuri"}
-    - {name: "site", link: "http://www.tahurikiller.com.ar/"}
-- 
-  id: 8
-  name: "Sebastian"
-  surname: "Omar Couto"
-  company: "Accenture - GDG La Plata"
-  title: "Functional Testing"
-  bio: "Sebastian se define como muy emprendedor, amante de los desafios, el aprendizaje y de compartir el conocimiento. Se maneja con varios lenguajes (Pascal, Delphi, HTML5, CSS, jS) y el testing. Trabaja actualmente en Accenture como Functional Testing y estudia en el Universidad Nacional de La Plata."
-  thumbnailUrl: Cvas.jpg
-  rockstar: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group La Plata", url: "https://plus.google.com/+Lp-gtugOrg/"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/111840458479759478345"}
-- 
-  id: 9
   name: "Tomas"
   surname: "Odell"
   company: "Google"
@@ -131,10 +13,10 @@
     - {name: "google-plus", link: "https://plus.google.com/101322509350040247506/"}
     - {name: "twitter", link: "https://twitter.com/tomasodell"}
 -
-  id: 10
+  id: 2
   name: "Heber"
   surname: "Lopez"
-  company: "Intelifaz - GDG Mendoza"
+  company: "Globant - GDG Mendoza"
   title: "Web Developer, Manager en GDG Mendoza"
   bio: "Heber es co-fundador y organizador líder del GDG Mendoza. Heber se desempeña como Web Developer en Intellifaz, es un entusiasta de javascript y la programación funcional. En los últimos dos años se ha especializado principalmente en el framework AngularJS. Ha dado eventos sobre Android, HTML5, Javascript, AngularJS, resources optimization, lazy data preload, al igual que muchos otros temas. Le gusta contribuir al software libre, ayudar en páginas como stackoverflow y junto con miembros del GDG lleva a cabo juntadas semanales abiertas, orientadas al aprendizaje de nuevas tecnologías. "
   thumbnailUrl: heber.jpg
@@ -145,21 +27,7 @@
     - {name: "google-plus", link: "https://plus.google.com/+HeberLopez/posts"}
     - {name: "twitter", link: "https://twitter.com/HeberLZ"}
 -
-  id: 11
-  name: "Hernan"
-  surname: "Magrini"
-  company: "Intelifaz - GDG Mendoza"
-  title: "Web Developer, Manager en GDG Mendoza"
-  bio: "Hernan es co fundador y organizador del GDG Mendoza. Se ha advocado al Desarrollo Web, lo apasiona experimentar con tecnologías de punta, disfruta de crear experiencias web únicas y cautivantes, sacandole el máximo provecho posible al navegador. Actualmente sus habilidades principales estan enfocadas en Javascript, HTML y CSS, teniendo amplios conocimientos y experiencia en el framework AngularJS, el cual utiliza a diario en su puesto de Web Developer en Intelifaz, y el full stack M.E.A.N. Además ha participado en proyectos diversos que varían desde juegos de realidad aumentada para dispositivos móviles hasta aplicaciones web con transacciones de Bitcoins."
-  thumbnailUrl: HernanM.jpg
-  rockstar: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group Mendoza", url: "https://developers.google.com/groups/chapter/102188429092915191370/"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/117054261306853104149"}
-    - {name: "twitter", link: "https://twitter.com/HerMagrini"}
--
-  id: 12
+  id: 3
   name: "Nick"
   surname: "Bortolotti"
   company: "Google"
@@ -175,187 +43,7 @@
     - {name: "github", link: "https://github.com/nbortolotti"}
     - {name: "site", link: "http://nbortolotti.blogspot.com.ar/"}
 -
-  id: 13
-  name: "Francisco"
-  surname: "Solsona"
-  company: "Google"
-  title: "Developer Relations Program Manager"
-  bio: "Francisco es líder de relaciones con desarrolladores en América Latina para Google, se enfoca en crecer el número de apps de alta calidad, promoviendo las plataformas para desarrolladores de Google, así como tecnologías abiertas; tanto a desarrolladores, como a  emprendedores. Ejecuta programas globales y soporta decenas de grupos técnicos de desarrolladores, emprendedores y expertos en diversos temas; para promover el crecimiento de los ecosistemas digitales en América Latina. Antes de dirigir las relaciones con desarrolladores en la región, trabajó por más de 10 años en la UNAM, como Coordinador de Cómputo de la Facultad de Ciencias y lideró varios proyectos de TI exitosos. Tiene amplia experiencia como profesor de ciencias de la computación y escribió un par de libros de fundamentos de computación. Ama los retos y ha sido encontrarlo trabajando en más de un proyecto a la vez, repetidamente. El tiempo libre lo comparte con su adorable (y geek) esposa, con amigos, practicando hiking, en el cine o escuchando novelas de fantasía y ciencia ficción."
-  thumbnailUrl: Paco.jpg
-  rockstar: true
-  ribbon: 
-    - {abbr: "Google", title: "Google", url: "https://www.google.com"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+solsona"}
-    - {name: "twitter", link: "https://twitter.com/solsona"}
--
-  id: 14
-  name: "Gabriel"
-  surname: "Paradelo"
-  company: "Expertizen - GBG Buenos Aires"
-  title: "CEO & Owner, Manager de GBG Buenos Aires"
-  bio: "Gabriel es el fundador y CEO de Expertizen, Google Apps Premier Partner. Es un  apasionado por la tecnología y su uso para solucionar los problemas de las empresas y su gente. Posee experiencia en cloud computing, desarrollo ágil, scrum, arquitectura de software, tecnologías Microsoft, IBM, SAP, Oracle, Google y es investigador en computer forensics."
-  thumbnailUrl: Gabriel.jpg
-  rockstar: true
-  ribbon: 
-    - {abbr: "GBG", title: "Google Business Group Buenos Aires", url: "https://www.google.com/landing/gbg/groups/chapter/100814777876749505949/"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/u/0/+GabrielParadelo"}
-    - {name: "twitter", link: "https://twitter.com/gparadelo"}
-    - {name: "site", link: "http://gabrielparadelo.blogspot.com.ar/"}
--
-  id: 15
-  name: "Wanda"
-  surname: "Croharé"
-  company: ""
-  title: ""
-  bio: "Wanda estudio ingenieria en sistemas de información en la UTN frsf y trabaja en el ministerio de educación de Santa Fé como informática y como freelance. Estuvo rodeada de computadoras desde que nacio, dedico casi toda su vida a la tecnología y crecio con ella. Desde los 16 empezo haciendo una web en html y desde entonces no puede detenerse. Se especializo en frontend y en aprender nuevas tecnologias e innovaciónes tecnologicas relacionadas con el arte."
-  thumbnailUrl: Wanda.jpg
-  rockstar: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group Santa Fe", url: "https://plus.google.com/+SantafegtugBlogspot/"}
-    - {abbr: "GDG W", title: "Google Developer Group Women Santa Fe", url: "https://plus.google.com/107296635613920217101/"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/100509006556768321920/"}
-    - {name: "twitter", link: "https://twitter.com/WCrohare"}
--
-  id: 16
-  name: "Andres"
-  surname: "Pagella"
-  company: "R/GA"
-  title: "Technical Team Leader & Solutions Architect"
-  bio: "Andrés se define como Tech Lead @ R/GA, Founder of @WarsteedStudios, Game Developer, Speaker, Author and Mad Scientist."
-  thumbnailUrl: Andres.jpeg
-  rockstar: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+AndrésPagella"}
-    - {name: "twitter", link: "https://twitter.com/mapagella"}
-    - {name: "github", link: "https://github.com/andrespagella"}
-    - {name: "site", link: "http://www.andrespagella.com/"}
--
-  id: 17
-  name: "Martin"
-  surname: "Rabaglia"
-  company: "R/GA"
-  title: "Tech Lead"
-  bio: "Martín es Tech Lead en R/GA. Ingeniero Sistemas  de UTN FRBA, Miembro de IOTBue y Fundador de HackathonMakers"
-  thumbnailUrl: Martin.jpg
-  rockstar: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/101968662177247694753"}
-    - {name: "twitter", link: "https://twitter.com/sr_humo"}
-    - {name: "github", link: "https://github.com/tinchoforever"}
-    - {name: "site", link: "http://martinrabaglia.com.ar/"}
--
-  id: 18
-  name: "Delfina"
-  surname: "Grossi"
-  company: "Google"
-  title: "Agency New Business Manager"
-  bio: ""
-  thumbnailUrl: Delfina.JPG
-  rockstar: true
-  ribbon: 
-    - {abbr: "Google", title: "Google", url: "https://www.google.com"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/110616957611982185929"}
-    - {name: "twitter", link: "https://twitter.com/delfinagrossi"}
--
-  id: 19
-  name: "Melina"
-  surname: "Lopez"
-  company: "Google"
-  title: "Publisher Support Lead"
-  bio: ""
-  thumbnailUrl: Melina.JPG
-  rockstar: true
-  ribbon: 
-    - {abbr: "Google", title: "Google", url: "https://www.google.com"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/112095718973760487155"}
--
-  id: 20
-  name: "Juan"
-  surname: "Chiste"
-  company: "Google"
-  title: "AdWords Online Specialist"
-  bio: "Licenciado en Economía, amante de la tecnología y cachenguero de alma"
-  thumbnailUrl: JuanC.jpg
-  rockstar: true
-  ribbon: 
-    - {abbr: "Google", title: "Google", url: "https://www.google.com"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+JuanChiste"}
-    - {name: "twitter", link: "https://twitter.com/juanchiste"}
--
-  id: 21
-  name: "Dalina"
-  surname: "Moron"
-  company: "Google"
-  title: "Online Specialist"
-  bio: ""
-  thumbnailUrl: Dalina.jpg
-  rockstar: true
-  ribbon: 
-    - {abbr: "Google", title: "Google", url: "https://www.google.com"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/103916563514213826257"}
--
-  id: 22
-  name: "Ines"
-  surname: "Peralta Aguero"
-  company: "Google"
-  title: "Online Specialist"
-  bio: ""
-  thumbnailUrl: InesPA.jpg
-  rockstar: true
-  ribbon: 
-    - {abbr: "Google", title: "Google", url: "https://www.google.com"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/117212865500360469124"}
-    - {name: "twitter", link: "https://twitter.com/iperaltaaguero"}
--
-  id: 23
-  name: "German"
-  surname: "Quiroz"
-  company: "GDG Santa Fe"
-  title: "Manager de GDG Santa Fe"
-  bio: ""
-  thumbnailUrl: German.jpg
-  rockstar: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group Santa Fe", url: "https://plus.google.com/+SantafegtugBlogspot/"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+GermanQuirozBogner"}
-    - {name: "twitter", link: "https://twitter.com/betosantafe"}
--
-  id: 24
-  name: "Ivan"
-  surname: "Roumec"
-  company: "R/GA"
-  title: "Open Standard Developer"
-  bio: "Ivan trabaja como  Open Standard Developer en R/GA.- Apasionado por la tecnología y la automatización, fiel seguidor del movimiento open hardware."
-  thumbnailUrl: Ivan.png
-  rockstar: true
-  social: 
-    - {name: "twitter", link: "https://twitter.com/gre3nlion"}
-    - {name: "github", link: "https://github.com/Gre3nLioN"}
--
-  id: 25
-  name: "Myriam"
-  surname: "Tevez"
-  company: "GCBA, GBG Buenos Aires"
-  title: "Líder de Proyecto"
-  bio: "Myriam es especialista y consultora en comercio internacional, líder de proyectos especiales en la Dirección de Comercio Exterior del Gobierno de la Ciudad de Buenos Aires."
-  thumbnailUrl: Myriam.jpg
-  rockstar: true
-  ribbon: 
-    - {abbr: "GBG", title: "Google Business Group Buenos Aires", url: "https://www.google.com/landing/gbg/groups/chapter/100814777876749505949/"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/113350026461707106774/"}
-    - {name: "twitter", link: "https://twitter.com/myritevez"}
--
-  id: 26
+  id: 4
   name: "Mariano"
   surname: "Molina"
   company: "Google"
@@ -370,13 +58,98 @@
     - {name: "twitter", link: "https://twitter.com/marianomolina_"}
     - {name: "site", link: "http://www.sabenewsroom.com/"}
 -
-  id: 27
-  name: "Fernando"
-  surname: "Costantini"
-  company: "ZupCat"
-  title: "Tech Lead"
-  bio: "Fernando se define como techie guy por naturaleza. Está a un par de finales de ser Ingeniero en Sistemas de Información @UTN. Docente de la materia Paradigmas de programación @UTN. Aplica y suma conocimientos como Tech lead @Zupcat, donde desarrollamos juegos masivos para mobile."
-  thumbnailUrl: Fernando.jpg
+  id: 5 
+  name: "John"
+  surname: "Labriola"
+  company: "Intel"
+  title: "Especialista en UX"
+  bio: "$
+  thumbnailUrl: Mariano.jpg
   rockstar: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/117893219649613842591"}
+  ribbon:
+    - {abbr: "Intel", title: "Intel", url: "https://www.intel.com"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/105681358343402624641/"}
+    - {name: "twitter", link: "https://twitter.com/marianomolina_"}
+    - {name: "site", link: "http://www.sabenewsroom.com/"}
+
+-
+  id: 4 
+  name: "Alejandro"
+  surname: "Hernandez"
+  company: "TopTal"
+  title: "Javascript ninja"
+  bio: "$
+  thumbnailUrl: Mariano.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "Google", title: "Google", url: "https://www.google.com"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/105681358343402624641/"}
+    - {name: "twitter", link: "https://twitter.com/marianomolina_"}
+    - {name: "site", link: "http://www.sabenewsroom.com/"}
+-
+  id: 4
+  name: "Mariano"
+  surname: "Molina"
+  company: "Google"
+  title: "Mobile Partner Development"
+  bio: "Mariano es un especialista en estrategia en el sector móvil que trabaja en el equipo de Partner Business Solutions de Google $
+  thumbnailUrl: Mariano.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "Google", title: "Google", url: "https://www.google.com"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/105681358343402624641/"}
+    - {name: "twitter", link: "https://twitter.com/marianomolina_"}
+    - {name: "site", link: "http://www.sabenewsroom.com/"}
+
+-
+  id: 4
+  name: "Mariano"
+  surname: "Molina"
+  company: "Google"
+  title: "Mobile Partner Development"
+  bio: "Mariano es un especialista en estrategia en el sector móvil que trabaja en el equipo de Partner Business Solutions de Google $
+  thumbnailUrl: Mariano.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "Google", title: "Google", url: "https://www.google.com"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/105681358343402624641/"}
+    - {name: "twitter", link: "https://twitter.com/marianomolina_"}
+    - {name: "site", link: "http://www.sabenewsroom.com/"}
+
+-
+  id: 4
+  name: "Mariano"
+  surname: "Molina"
+  company: "Google"
+  title: "Mobile Partner Development"
+  bio: "Mariano es un especialista en estrategia en el sector móvil que trabaja en el equipo de Partner Business Solutions de Google $
+  thumbnailUrl: Mariano.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "Google", title: "Google", url: "https://www.google.com"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/105681358343402624641/"}
+    - {name: "twitter", link: "https://twitter.com/marianomolina_"}
+    - {name: "site", link: "http://www.sabenewsroom.com/"}
+
+-
+  id: 4
+  name: "Mariano"
+  surname: "Molina"
+  company: "Google"
+  title: "Mobile Partner Development"
+  bio: "Mariano es un especialista en estrategia en el sector móvil que trabaja en el equipo de Partner Business Solutions de Google $
+  thumbnailUrl: Mariano.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "Google", title: "Google", url: "https://www.google.com"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/105681358343402624641/"}
+    - {name: "twitter", link: "https://twitter.com/marianomolina_"}
+    - {name: "site", link: "http://www.sabenewsroom.com/"}
+
+
