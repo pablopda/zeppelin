@@ -65,7 +65,7 @@ heroButtons:
  - {permalink: "/#tickets", text: "Registrate"}
 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "GDG DevFest"
 aboutBlock:
  - {title: "Charlas", image: "conference.jpg", text: "Uno de los mayores eventos sobre tecnología Google del continente, cuidadosamente elaborado por las comunidads GDG! Espectaculares expositores y mucha diversión!" }
  - {title: "Networking", image: "workshop.jpg", text: "Un día completo de charlas y networking con los más de 200 desarrolladores y grandes especialistas" }
@@ -119,7 +119,7 @@ twitterHashTag: "DevFestCBA"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
-organizersTitle: "Organizers"
+organizersTitle: "Organiza"
 partnersTitle: "Partners"
 partnersC4sponsorsButton: "Quiero ser sponsor"
 
