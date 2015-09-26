@@ -50,9 +50,9 @@ navigationLinks:
  - {permalink: "/logistics/", text: "Logistica"}
  #- {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "http://bit.ly/dfua-c4p", text: "Se un speaker"}
+ - {link: "https://docs.google.com/forms/d/1IY3Inw6tmKgwWz7NuTa9yi9ouEtzD3pSOi_aL6Nfahg/viewform", text: "Sumate como speaker"}
 rightNavigationButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Se un speaker"}
+ - {link: "https://docs.google.com/forms/d/1IY3Inw6tmKgwWz7NuTa9yi9ouEtzD3pSOi_aL6Nfahg/viewform", text: "Propone un speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -61,7 +61,7 @@ eventDate: "Octubre 18, 2015"
 typeoutTextValues: '"DevFest"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://docs.google.com/forms/d/1IY3Inw6tmKgwWz7NuTa9yi9ouEtzD3pSOi_aL6Nfahg/viewform", text: "Se speaker"}
  - {permalink: "/#tickets", text: "Registrate"}
 
 # About Block
@@ -126,7 +126,7 @@ partnersC4sponsorsButton: "Quiero ser sponsor"
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
-subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
+subscribeAction: "https://gdgcba.us11.list-manage.com/subscribe/post?u=0ed5ebe31c97c66027c106d7a&amp;id=af05eec22d"
 subscribeInfo: "Los tickets son limitados. Estate atento!"
 
 # Tickets Block
