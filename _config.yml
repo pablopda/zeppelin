@@ -138,7 +138,7 @@ ticketsOffers:
   price: "0"
   priceCurrency: "$"
   ticketsNumber: "200"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonLink: "http://www.meetup.com/Google-Developers-Group-Cordoba/events/225640552/"
   buyButtonText: "Inscribite!"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2015-09-01T10:00"
