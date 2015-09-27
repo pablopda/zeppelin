@@ -11,7 +11,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "GDG Córdoba DevFest 2015"
-email: "devfest@gdg.org.ua"
+email: "devfest@gdgcba.com"
 description: "GDG DevFest es un conjunto de ventos tecnicos al rededor del mundo"
 #baseurl: "/zeppelin"
 url: "https://gdgcba.com"
@@ -30,7 +30,7 @@ organizerLink: "http://gdgcba.com/"
 
 # Head
 metaKeywords: "event, gdg, devfest, google, programacion, desarrolladores,programming, android, chrome, developers, Córdoba"
-twitterAccount: "@gdgcórdoba"
+twitterAccount: "@gdgcordoba"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
