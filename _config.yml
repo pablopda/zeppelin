@@ -37,7 +37,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
 #c4pUrl: "https://bit.ly/dfua-c4p"
-c4sponsorsUrl: "mailto:devfest@pablopda.com.ar?subject=Sponsor%20Devfest2015"
+c4sponsorsUrl: "mailto:devfest@gdgcba.com?subject=Sponsor%20Devfest2015"
 
 
 # Navigation
@@ -166,12 +166,12 @@ footerBlocks:
  -
   title: "Links"
   links:
-   #- {link: "http://gdg.org.ua", text: "GDG.org.ua"}
+   - {link: "http://gdgcba.com", text: "gdgcba.com"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:gdg@pablopda.com.ar", text: "gdg@pablopda.com.ar"}
+   - {link: "mailto:devfest@gdgcba.com", text: "devfest@gdgcba "}
  -
   title: "FAQ"
   links:
@@ -235,7 +235,7 @@ prizes:
 # Hackathon Location Block
 hackathonLocationBlockTitle: "Location"
 hackathonLocationName: "Communa"
-hackathonLocationLink: "http://communa.net.ua/"
+hackathonLocationLink: "http://"
 hackathonStreetAddress: "1 Halytska St"
 hackathonAddressLocality: "Lviv"
 hackathonAddressLocalityRegion: "Lvivska"
