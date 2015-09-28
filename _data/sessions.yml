@@ -48,35 +48,35 @@
   #presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
-  id: 005
-  title: "Android"
-  description: ""
-  subtype: keynote
-  speakers: [5]
-  language: es
-  complexity: "Expert"
+#  id: 005
+#  title: "Android"
+#  description: ""
+#  subtype: keynote
+#  speakers: [5]
+#  language: es
+#  complexity: "Expert"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
   id: 006
-  title: "Data Science"
-  description: ""
+  title: "Data Science for Developers"
+  description: "¿Qué es Data Science? Repaso por las actividades típicas a realizarse en un Proyecto de Data Science, haciendo incapié en las tecnologías y librerías más utilizadas para abordar cada una de las problemáticas."
   subtype: keynote
   speakers: [6]
   language: es
-  complexity: "Expert"
+  complexity: "Introductoria"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
   id: 007
-  title: "Data Science"
-  description: ""
+  title: "11 Slides de Droidcon NYC"
+  description: "Esta charla presenta una selección de distintas charlas de Droidcon NYC, realizada en New York a fines de Agosto de 2015. La selección está orientada a desarrolladores Android y a desarrolladores en general, puesto que las lecciones probablemente trasciendan a la plataforma. "
   subtype: keynote
   speakers: [7]
   language: es
-  complexity: "Expert"
+  complexity: "Indroductoria"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 

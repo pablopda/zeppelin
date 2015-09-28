@@ -52,41 +52,49 @@
     - {abbr: "Toptal", title: "Toptal", url: "https://www.toptal.com"}
   social:
 -
-  id: 5
-  name: "Diego"
-  surname: "Mercado"
-  company: "Black Tobacco"
-  title: "Software Engineer - Android"
-  bio: ""
-  thumbnailUrl: diego.jpg
-  rockstar: true
-  ribbon:
-    - {abbr: "Black Tobacco", title: "Black Tobacco", url: "http://www.black-tobacco.com/"}
-  social:
+#  id: 5
+#  name: "Diego"
+#  surname: "Mercado"
+#  company: "Black Tobacco"
+#  title: "Software Engineer - Android"
+#  bio: ""
+#  thumbnailUrl: diego.jpg
+#  rockstar: true
+#  ribbon:
+#    - {abbr: "Black Tobacco", title: "Black Tobacco", url: "http://www.black-tobacco.com/"}
+#  social:
 -
   id: 6
   name: "Patricio"
   surname: "Del Boca"
   company: "Pi Data"
   title: "Data Scientist en Pi Data"
-  bio: ""
+  bio: "Information System Engineer. Certified ScrumMaster & Data Enthusiast. GNU/Linux User. Individuals and interactions over almost everything."
   thumbnailUrl: patriciodb.jpg
   rockstar: true
   ribbon:
     - {abbr: "Pi Data", title: "Pi Data", url: "http://www.piconsulting.com.ar"}
   social:
+    - {name: "twitter", link: "https://twitter.com/pdelboca"}
+    - {name: "linkedin", link: "https://ar.linkedin.com/in/patriciodelboca"}
 -
   id: 7
   name: "Roberto"
   surname: "Allende"
   company: "Mozio"
-  title: "Android developer"
-  bio: ""
+  title: "Software Developer"
+  bio: "Desarrollador Python y Android con más de 10 años de experiencia en desarrollo de software realizado siempre en Startups, de los cuales co-fundo al menos tres y fueron seleccionados por programas tales como Startup Chile, en dos oportunidades, Incuba UC Geek Camp.
+Además, ha contribuído activamente en diversas iniciativas sin fines de lucro, tales como grupos de software libre en Sudamérica, Plone Foundation, Hackers and Founders y TEDx Córdoba."
   thumbnailUrl: roberto.jpg
   rockstar: true
   ribbon:
     - {abbr: "Mozio", title: "Mozio", url: "http://mozio.com"}
-#  social:
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+RobertoAllende"}
+    - {name: "twitter", link: "https://twitter.com/robertoallende"}
+    - {name: "github", link: "https://github.com/robertoallende"}
+    - {name: "site", link: "http://robertoallende.com"}
+
 -
   id: 8
   name: "Patricio"
