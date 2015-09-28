@@ -30,8 +30,8 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 003
-  title: "Android L Animation"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
+  title: "Designing Mobile Experiences"
+  description: ""
   subtype: #presentation
   speakers: [3]
   language: es
@@ -48,13 +48,13 @@
   #presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
-#  id: 005
-#  title: "Android"
-#  description: ""
-#  subtype: keynote
-#  speakers: [5]
-#  language: es
-#  complexity: "Expert"
+  id: 005
+  title: "Android"
+  description: ""
+  subtype: keynote
+  #speakers: [5]
+  language: es
+  complexity: "Introductoria"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
