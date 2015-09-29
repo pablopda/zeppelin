@@ -29,11 +29,11 @@ organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://www.meetup.com/Google-Developers-Group-Cordoba/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programacion, desarrolladores,programming, android, chrome, developers, Córdoba"
+metaKeywords: "event, gdg, devfest, google, programacion, desarrolladores, programming, android, chrome, developers, Córdoba"
 twitterAccount: "@gdgcordoba"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+socialImageSrcFacebook: "/img/seo/sharing-facebook.jpg"
 
 # Documents
 #c4pUrl: "https://bit.ly/dfua-c4p"
