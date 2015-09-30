@@ -42,15 +42,19 @@
 -
   id: 4
   name: "Alejandro"
-  surname: "Hernandez"
-  company: "TopTal"
-  title: "Software Engineer"
-  bio: ""
+  surname: "Hernández"
+  company: "Toptal"
+  title: "JavaScript Specialist"
+  bio: "Alejandro es especialista en JavaScript desde 1997 y ha trabajado toda su carrera en Front End Web y Node.js, haciendo investigación y desarrollos de gran envergadura para grandes compañías. Actualmente trabaja como enterprise architect para clientes de Toptal. Ha escrito varios artículos entre los que destaca introduction to full stack javascript (http://www.smashingmagazine.com/2013/11/introduction-to-full-stack-javascript/) el cual ayudo a darle visibilidad a nivel mundial. En su tiempo libre hace investigación sobre interfaces Hombre-Maquina basada en interacción de browsers."
   thumbnailUrl: Alejandro.jpg
   rockstar: true
   ribbon:
     - {abbr: "Toptal", title: "Toptal", url: "https://www.toptal.com"}
   social:
+    - {name: "google-plus", link: "https://plus.google.com/115314988201502979780/posts"}
+    - {name: "twitter", link: "https://twitter.com/picanteverde"}
+    - {name: "github", link: "https://github.com/picanteverde/"}
+    - {name: "site", link: "https://picanteverde.wordpress.com/"}
 -
 #  id: 5
 #  name: "Diego"

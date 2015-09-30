@@ -39,12 +39,12 @@
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 -
   id: 004
-  title: "Javascript"
-  description: ""
+  title: "High Order Functions"
+  description: "High Order Function Theory on JavaScript"
   subtype: keynote
   speakers: [4]
   language: es
-  complexity: "Beginner"
+  complexity: "intermedia"
   #presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
