@@ -1,17 +1,18 @@
 -
   id: 1
-  name: "Heber"
-  surname: "Lopez"
-  company: "Globant - GDG Mendoza"
-  title: "Web Developer, Manager en GDG Mendoza"
-  bio: "Heber es co-fundador y organizador líder del GDG Mendoza. Heber se desempeña como Web Developer en Intellifaz, es un entusiasta de javascript y la programación funcional. En los últimos dos años se ha especializado principalmente en el framework AngularJS. Ha dado eventos sobre Android, HTML5, Javascript, AngularJS, resources optimization, lazy data preload, al igual que muchos otros temas. Le gusta contribuir al software libre, ayudar en páginas como stackoverflow y junto con miembros del GDG lleva a cabo juntadas semanales abiertas, orientadas al aprendizaje de nuevas tecnologías. "
+  name: "Heber Jairo"
+  surname: "López Zalba"
+  company: "Globant / Disney Studios"
+  title: "Senior Web UI Developer / Senior Frontend Engineer"
+  bio: "Fundador y organizador líder del Google Developers Group Mendoza desde Septiembre del 2011. Durante este tiempo ha dado charlas en multiples eventos sobre tecnologías tales como MEAN stack, programación funcional con lodash, gestores de tareas tales como Gulp, etc. Ama los desafíos y la toma de decisiones arquitectónicas en los sistemas, con foco en mantenibilidad de código y performance."
   thumbnailUrl: heber.jpg
   rockstar: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group Mendoza", url: "https://developers.google.com/groups/chapter/102188429092915191370/"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+HeberLopez/posts"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+HeberLopez"}
     - {name: "twitter", link: "https://twitter.com/HeberLZ"}
+    - {name: "github", link: "https://github.com/HeberLZ"}
 -
   id: 2
   name: "Nick"
@@ -34,11 +35,15 @@
   surname: "Labriola"
   company: "Intel"
   title: "User Experience Designer"
-  bio: ""
+  bio: "John is husband, father, and lead user experience designer at Intel. Over the last 17 years he has applied a mix of interaction design, information architecture, visual design, research, and other methods on products for Fortune 100 companies, start-ups, and non-profits. He is an ExPat New Yorker whose been living in Villa Carlos, Argentina for the past four years. Outside of work you’ll find him with his family cooking, hiking, gardening, reading, catching a good flick, and looking for inspiration in the world."
   thumbnailUrl: John.jpg
   rockstar: true
   ribbon:
     - {abbr: "Intel", title: "Intel", url: "https://www.intel.com"}
+  social:
+    - {name: "google-plus", link: "google.com/+JohnLabriola"}
+    - {name: "twitter", link: "https://twitter.com/john_labriola"}
+    - {name: "github", link: "https://github.com/johnlabriola"}
 -
   id: 4
   name: "Alejandro"

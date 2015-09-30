@@ -11,8 +11,8 @@
   service: true
 -
   id: 001
-  title: "Angularjs"
-  description: ""
+  title: "Desvelando la magia de AngularJS"
+  description: " Explicación de como están implementadas algunas de las funciones mas importantes de AngularJS y algunas consideraciones a tener en cuenta debido a esto mismo."
   subtype: #presentation
   speakers: [1]
   language: es
@@ -30,11 +30,11 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 003
-  title: "Designing Mobile Experiences"
-  description: ""
+  title: "Designing Mobile Experiences: 25 Design Tips and Tricks You Should Know"
+  description: "Many apps on the market do not fail because of poor business models or bad coding practices, but because there is a disconnect with what users need or desire and usability issues. In most cases the makers of these apps are unaware that there are basic design principles that if followed, can take their app to the next level. This talk will review 25 tips and tricks, along with examples, that developers can leverage right now to improve the design, usability, engagement, and usefulness of the products."
   subtype: #presentation
   speakers: [3]
-  language: es
+  language: en
   complexity: "Intermediate" 
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 -
