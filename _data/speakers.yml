@@ -110,9 +110,27 @@ Además, ha contribuído activamente en diversas iniciativas sin fines de lucro,
   surname: "Maller"
   company: "Intel"
   title: "User Experience Leader at Intel Corporation"
-  bio: ""
-  thumbnailUrl: Patricio.jpg
+  bio: "Patricio Maller holds a computer science degree and a Master of Science in computer sciences (2000) with focus on human-computer interaction. He was a Fulbright Scholar at The University of Alabama between 1998 and 2000, completing research on the application of socio-cognitive theories to the acceptance of IT technology. Patricio is a UX leader at Intel Security, working since 2006 at the Argentina Software Design Center (ASDC). Patricio also worked at Motorola, and the educational initiative educ.ar, leading a complete redesign.
+
+Patricio has authored many articles related to processes Agile and UX, and is currently a researcher at the Aeronautic University Institute."
+  thumbnailUrl: pmaller.jpg
   rockstar: true
   ribbon:
     - {abbr: "Intel", title: "Intel", url: "https://www.intel.com"}
   social:
+    - {name: "twitter", link: " https://twitter.com/PatricioMaller"}
+    - {name: "linkedin", link: " https://www.linkedin.com/profile/view?id=AAMAAABYdncBiBYgDPpBZoT3dI3FH1AMTuVJNRE&trk=hp-identity-name"}
+-
+  id: 9
+  name: "Diego J"
+  surname: "Dini"
+  company: "Intel"
+  title: "UX Designer/Innovator"
+  bio: "Diego have over 8 years working on Users experiences and UI Design, handling various web, mobile, tablet, smartwatch and cross platform application projects, and have had the change to design for windows, IOS and Adroid. In the last 6 years, he´s been specializing in UX Design and worked on a wide variety of projects also gaining a good team lead experience, product management and innovation skills."
+  thumbnailUrl: diego.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "Intel", title: "Intel", url: "https://www.intel.com"}
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/diegojdini"}
+    - {name: "twitter", link: "https://twitter.com/diegojdini"}

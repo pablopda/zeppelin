@@ -82,11 +82,11 @@
 
 -
   id: 008
-  title: "Mobile App UX Principles"
-  description: ""
+  title: "Mobile Design Principles"
+  description: "Charla introductoria al trabajo con principios de diseños en aplicaciones mobiles. Integracion de los principios del sistema operativo y la aplicación. Sintesis de principios de diseño basados en investigación de usuarios."
   subtype: keynote
-  speakers: [8]
+  speakers: [8, 9]
   language: es
-  complexity: "Expert"
+  complexity: "Intermedia"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
