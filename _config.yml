@@ -140,7 +140,7 @@ ticketsOffers:
   ticketsNumber: "200"
   buyButtonLink: "http://www.meetup.com/Google-Developers-Group-Cordoba/events/225640552/"
   buyButtonText: "Inscribite!"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  ticketContentList: ["La entrada es GRATIS", "Se ruega puntualidad", "Si no podes ir avisanos!"]
   validFrom: "2015-09-01T10:00"
   validThrough: "2015-10-10T13:00"
  -
@@ -151,7 +151,7 @@ ticketsOffers:
   featured: true
   buyButtonLink: "http://dfua.ticketforevent.com/"
   buyButtonText: "Registrate"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  ticketContentList: ["La entrada es GRATIS", "Se ruega puntualidad", "Si no podes ir avisanos!"]
   validFrom: "2015-10-10T13:00"
   validThrough: "2015-10-18T13:00"
   disabled: true
