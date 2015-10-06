@@ -61,7 +61,7 @@ eventDate: "Octubre 18, 2015"
 typeoutTextValues: '"DevFest"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "https://docs.google.com/forms/d/1IY3Inw6tmKgwWz7NuTa9yi9ouEtzD3pSOi_aL6Nfahg/viewform", text: "Se speaker"}
+ - {link: "https://docs.google.com/forms/d/1IY3Inw6tmKgwWz7NuTa9yi9ouEtzD3pSOi_aL6Nfahg/viewform", text: "Ser Orador"}
  - {permalink: "/#tickets", text: "Registrate"}
 
 # About Block
