@@ -31,21 +31,21 @@
     }
     - {
     	startTime: "17:30",
-    	endTime: "18:50",
+    	endTime: "19:00",
     	sessionIds: [005]
     }
     - {
-    	startTime: "18:55",
-    	endTime: "19:35",
+    	startTime: "19:05",
+    	endTime: "19:45",
     	sessionIds: [001]
     }
     - {
-    	startTime: "19:40",
-    	endTime: "20:20",
+    	startTime: "19:50",
+    	endTime: "20:30",
     	sessionIds: [006]
     }
     - {
-    	startTime: "20:25",
-    	endTime: "21:05",
+    	startTime: "20:35",
+    	endTime: "21:15",
     	sessionIds: [007]
     }
