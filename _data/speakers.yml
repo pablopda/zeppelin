@@ -149,3 +149,20 @@ Patricio has authored many articles related to processes Agile and UX, and is cu
     - {name: "google-plus", link: "http://gplus.to/almo"}
     - {name: "twitter", link: "https://twitter.com/davilagrau"}
 
+-
+  id: 11
+  name: "Pablo"
+  surname: "Celayes"
+  company: "UpWork, OTA Expert"
+  title: "Freelance Scientific Python Developer"
+  bio: "Pablo Celayes es Licenciado en Matemática (2006) y Analista en Computación (2014) egresado de FaMAF, UNC. Pythonista científico nómade desde 2012, ha participado en numerosos proyectos relacionados a Aprendizaje Automático, Procesamiento de Lenguaje Natural , Análisis de Datos y Criptografía, para clientes e instituciones de Holanda, Turquía, Estados Unidos y Argentina. Fundador y coordinador desde 2009 de LaAcademiaMateClub, un espacio de divulgación y entrenamiento para jóvenes aficionad@s a la matemática. Miembro de OpenData Córdoba, organizador de los Meetups Data Science Córdoba y participante de cuanto hackatón encuentre. Cuando suelta la laptop, entretiene los dedos tocando el bajo."
+  thumbnailUrl: Celayes.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "UpWork", title: "UpWork", url: "https://www.upwork.com/"}
+    - {abbr: "OTA Expert", title: "OTA Expert", url: "http://ota.expert/"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+PabloGabrielCelayes/posts"}
+    - {name: "twitter", link: "https://twitter.com/PCelayes"}
+    - {name: "github", link: "https://github.com/pablocelayes"}
+    - {name: "site", link: "https://www.linkedin.com/in/pablogabrielcelayes"}

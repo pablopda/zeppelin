@@ -63,7 +63,7 @@
   title: "Data Science for Developers"
   description: "¿Qué es Data Science? Repaso por las actividades típicas a realizarse en un Proyecto de Data Science, haciendo incapié en las tecnologías y librerías más utilizadas para abordar cada una de las problemáticas."
   subtype: keynote
-  speakers: [6]
+  speakers: [6, 11]
   language: es
   complexity: "Introductoria"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
