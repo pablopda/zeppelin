@@ -19,7 +19,7 @@
   surname: "Bortolotti"
   company: "Google"
   title: "Program Manager LatAm"
-  bio: "Actualmente Nicolás Bortolotti trabaja como director de relaciones para desarrolladores en LatAm. Ha desarrollado comunidades académicas y de investigación en varios países de latinoamérica en la plataforma de desarrollo de Google, Web y Mobile. Nicolás ha participado académicamente como profesor de la Universidad Tecnológica Nacional (UTN), para las cátedras Ingeniería de Software Orientada a Objetos y Arquitecturas Móviles. En el ámbito de investigación, ha trabajado en el instituto INGAR-UTN-CONICET. En el ambiente corporativo, ha ejercido como arquitecto para el desarrollo de varias organizaciones nacionales y como CTO en Dotar Consulting, especializándose en ingeniería del software, movilidad y cloud computing. Nicolás es un orador y blogger prominente acerca del desarrollo de las tecnologías de Google. Tiene pasión por el desarrollo de software y los programas para el crecimiento de las comunidades de desarrolladores"
+  bio: "Actualmente Nicolás Bortolotti trabaja como director de relaciones para desarrolladores en LatAm cono sur. Nicolás ha desarrollado comunidades académicas y de investigación en varios países de Latinoamérica en la plataforma de desarrollo de Google, Web y Mobile. Nicolás ha participado académicamente como profesor de la Universidad Tecnológica Nacional (UTN), para las cátedras Ingeniería de Software Orientada a Objetos y Arquitecturas Móviles. En el ámbito de investigación, ha trabajado en el instituto INGAR-UTN-CONICET. En el ambiente corporativo, ha ejercido como arquitecto para el desarrollo de varias organizaciones nacionales y como CTO en Dotar Consulting, especializándose en ingeniería del software, movilidad y cloud computing. Nicolás es un orador y blogger prominente acerca del desarrollo de las tecnologías de Google."
   thumbnailUrl: Nick.jpg
   rockstar: true
   ribbon: 
@@ -29,21 +29,21 @@
     - {name: "twitter", link: "https://twitter.com/nickbortolotti"}
     - {name: "github", link: "https://github.com/nbortolotti"}
     - {name: "site", link: "http://nbortolotti.blogspot.com.ar/"}
--
-  id: 3
-  name: "John"
-  surname: "Labriola"
-  company: "Intel"
-  title: "User Experience Designer"
-  bio: "John is husband, father, and lead user experience designer at Intel. Over the last 17 years he has applied a mix of interaction design, information architecture, visual design, research, and other methods on products for Fortune 100 companies, start-ups, and non-profits. He is an ExPat New Yorker whose been living in Villa Carlos, Argentina for the past four years. Outside of work you’ll find him with his family cooking, hiking, gardening, reading, catching a good flick, and looking for inspiration in the world."
-  thumbnailUrl: John.jpg
-  rockstar: true
-  ribbon:
-    - {abbr: "Intel", title: "Intel", url: "https://www.intel.com"}
-  social:
-    - {name: "google-plus", link: "google.com/+JohnLabriola"}
-    - {name: "twitter", link: "https://twitter.com/john_labriola"}
-    - {name: "github", link: "https://github.com/johnlabriola"}
+#-
+#  id: 3
+#  name: "John"
+#  surname: "Labriola"
+#  company: "Intel"
+#  title: "User Experience Designer"
+#  bio: "John is husband, father, and lead user experience designer at Intel. Over the last 17 years he has applied a mix of interaction design, information architecture, visual design, research, and other methods on products for Fortune 100 companies, start-ups, and non-profits. He is an ExPat New Yorker whose been living in Villa Carlos, Argentina for the past four years. Outside of work you’ll find him with his family cooking, hiking, gardening, reading, catching a good flick, and looking for inspiration in the world."
+#  thumbnailUrl: John.jpg
+#  rockstar: true
+#  ribbon:
+#    - {abbr: "Intel", title: "Intel", url: "https://www.intel.com"}
+#  social:
+#    - {name: "google-plus", link: "google.com/+JohnLabriola"}
+#    - {name: "twitter", link: "https://twitter.com/john_labriola"}
+#    - {name: "github", link: "https://github.com/johnlabriola"}
 -
   id: 4
   name: "Alejandro"
@@ -134,3 +134,18 @@ Patricio has authored many articles related to processes Agile and UX, and is cu
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/diegojdini"}
     - {name: "twitter", link: "https://twitter.com/diegojdini"}
+-
+  id: 10
+  name: "Andres L. "
+  surname: "Martinez-Ortiz"
+  company: "Intel"
+  title: "UX Designer/Innovator"
+  bio: "a.k.a Almo is Developer Program Manager in Google's Engineering team. He is focused on driving the success of Google's developer products and the open web by creating a thriving ecosystem of 3rd party applications and businesses built on them. Closely with Product Management, Marketing, PR, Business Development, and other, he works with and supports developer communities, initiating activities that meet the needs of the innovation ecosystem. In addition, he meets with developers and partners in large companies, startups, universities and enterprises, promoting Open standards and Google technologies."
+  thumbnailUrl: amlo.jpeg
+  rockstar: true
+  ribbon:
+    - {abbr: "Google", title: "Google", url: "https://www.google.com"}
+  social:
+    - {name: "google-plus", link: "http://gplus.to/almo"}
+    - {name: "twitter", link: "https://twitter.com/davilagrau"}
+

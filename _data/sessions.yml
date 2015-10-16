@@ -20,25 +20,25 @@
   ##video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 002
-  title: "Building Cloud-powered wearable Apps"
-  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
+  title: "Los 7 arquetipos de la tecnología moderna"
+  description: "Actualmente se analizan gran cantidad de modelos tecnológicos, esto vislumbra gran cantidad de desafíos para los grupos de desarrollo actuales. Esta presentación propone 7 ambientes prácticos tecnológicos. Movilidad nativa, movilidad web, ambiente de persistencia móvil, análisis de datos masivos, y el poder de la nube actual."
   subtype: #presentation
   speakers: [2]
   language: es
   complexity: "Intermediate" 
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-  id: 003
-  title: "Designing Mobile Experiences: 25 Design Tips and Tricks You Should Know"
-  description: "Many apps on the market do not fail because of poor business models or bad coding practices, but because there is a disconnect with what users need or desire and usability issues. In most cases the makers of these apps are unaware that there are basic design principles that if followed, can take their app to the next level. This talk will review 25 tips and tricks, along with examples, that developers can leverage right now to improve the design, usability, engagement, and usefulness of the products."
-  subtype: #presentation
-  speakers: [3]
-  language: en
-  complexity: "Intermediate" 
+#-
+#  id: 003
+#  title: "Designing Mobile Experiences: 25 Design Tips and Tricks You Should Know"
+#  description: "Many apps on the market do not fail because of poor business models or bad coding practices, but because there is a disconnect with what users need or desire and usability issues. In most cases the makers of these apps are unaware that there are basic design principles that if followed, can take their app to the next level. This talk will review 25 tips and tricks, along with examples, that developers can leverage right now to improve the design, usability, engagement, and usefulness of the products."
+#  subtype: #presentation
+#  speakers: [3]
+#  language: en
+#  complexity: "Intermediate"
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 -
-  id: 004
+  id: 003
   title: "High Order Functions"
   description: "High Order Function Theory on JavaScript"
   subtype: keynote
@@ -47,19 +47,19 @@
   complexity: "intermedia"
   #presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-  id: 005
-  title: "Android"
-  description: ""
-  subtype: keynote
-  #speakers: [5]
-  language: es
-  complexity: "Introductoria"
-  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+#-
+#  id: 005
+#  title: "Android"
+#  description: ""
+#  subtype: keynote
+#  #speakers: [5]
+#  language: es
+#  complexity: "Introductoria"
+#  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+#  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
-  id: 006
+  id: 004
   title: "Data Science for Developers"
   description: "¿Qué es Data Science? Repaso por las actividades típicas a realizarse en un Proyecto de Data Science, haciendo incapié en las tecnologías y librerías más utilizadas para abordar cada una de las problemáticas."
   subtype: keynote
@@ -70,7 +70,7 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
-  id: 007
+  id: 005
   title: "11 Slides de Droidcon NYC"
   description: "Esta charla presenta una selección de distintas charlas de Droidcon NYC, realizada en New York a fines de Agosto de 2015. La selección está orientada a desarrolladores Android y a desarrolladores en general, puesto que las lecciones probablemente trasciendan a la plataforma. "
   subtype: keynote
@@ -81,11 +81,21 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
-  id: 008
+  id: 006
   title: "Mobile Design Principles"
   description: "Charla introductoria al trabajo con principios de diseños en aplicaciones mobiles. Integracion de los principios del sistema operativo y la aplicación. Sintesis de principios de diseño basados en investigación de usuarios."
   subtype: keynote
   speakers: [8, 9]
+  language: es
+  complexity: "Intermedia"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 007
+  title: "Data Science for muggles"
+  description: "Presentación de BigQuery como herramienta de análisis de datos, integración con plataformas y lenguajes de programación.."
+  subtype: keynote
+  speakers: [10]
   language: es
   complexity: "Intermedia"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"

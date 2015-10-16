@@ -44,7 +44,7 @@ c4sponsorsUrl: "mailto:devfest@gdgcba.com?subject=Sponsor%20Devfest2015"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  #- {permalink: "/blog/", text: "Blog"}
- #- {permalink: "/schedule/", text: "Calendario"}
+ - {permalink: "/schedule/", text: "Calendario"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Equipo"}
  - {permalink: "/logistics/", text: "Logistica"}
