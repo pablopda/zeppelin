@@ -12,8 +12,6 @@
     - {name: "Intel", description: "Intel", link: "http://www.intel.com/", imageUrl: "intel.jpg", width: "180px"}
     - {name: "Globant", description: "Globant", link: "https://globant.com", imageUrl: "globant.png", width: "180px"}
     - {name: "Tuquejasuma.com", description: "tuquejasuma.com", link: "http://tuquejasuma.com/", imageUrl: "tuquejasuma.png", width: "1800px"}
-    - {name: "Y Punto eventos", description: "Eventos integrales", link: "mailto:ypuntoeventos@gmail.com", imageUrl: "YPUNTO.png", width: "100px"}
-
 #- 
 #  group: "Media partners"
 #  elements: 
